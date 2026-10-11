@@ -67,7 +67,9 @@ def main():
     ap.add_argument("--no-ref", action="store_true")
     a = ap.parse_args()
 
-    key = os.environ.get("GEMINI_API_KEY") or sys.exit("GEMINI_API_KEY ortam değişkeni tanımlı değil")
+    kf = ROOT / "gemini_key.txt"  # .gitignore'da; depoya gönderilmez
+    key = (kf.read_text(encoding="utf-8").strip() if kf.exists() else "") or os.environ.get("GEMINI_API_KEY") \
+        or sys.exit("Anahtar yok: proje klasörüne gemini_key.txt dosyası koy ya da GEMINI_API_KEY tanımla")
     ep = ROOT / "episodes" / a.slug
     rows = json.loads((ep / "gorsel_istemleri.json").read_text(encoding="utf-8"))
     out = ep / "images"
