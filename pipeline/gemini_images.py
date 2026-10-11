@@ -23,6 +23,7 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 PRICE = {"gemini-3.1-flash-image": 0.067, "gemini-3.1-flash-lite-image": 0.0336}  # USD/görsel, 1K, resmi liste
+MAIN_CHAR = "brown 1970s suit jacket"  # {SEN} karakterinin istemdeki ayırt edici ifadesi
 REF_NOTE = (" Use the attached image ONLY as a style and character reference: same line weight, same flat "
             "retro colors, same white-ball-head figures; the mustached man in the brown jacket is the "
             "recurring main character. Draw the new scene described above, do not copy the reference.")
@@ -95,8 +96,10 @@ def main():
     ok, fail = 0, []
     for n, r in enumerate(todo, 1):
         try:
-            # referans sahnenin kendisini üretirken referans verme
-            img = call(a.model, key, r["istem"], None if r["id"] == "s01_04" else ref)
+            # Referans yalnızca ana karakterin (bıyıklı memur) geçtiği sahnelere eklenir; yoksa model onu
+            # ilgisiz sahnelere de çiziyor. Referans sahnenin kendisi referanssız üretilir.
+            use_ref = ref if (MAIN_CHAR in r["istem"] and r["id"] != "s01_04") else None
+            img = call(a.model, key, r["istem"], use_ref)
             (out / f"{r['id']}.png").write_bytes(img)
             ok += 1
             print(f"[{n}/{len(todo)}] {r['id']} tamam", flush=True)
