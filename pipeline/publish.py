@@ -45,7 +45,11 @@ def thumbnail(ep: Episode, force: bool = False):
     cfg = load_config()
     th = ep.script["thumbnail"]
     base = ep.build / "thumb_base.png"
-    if force or not base.exists():
+    manual = next((ep.dir / "images" / f"thumb{e}" for e in (".png", ".jpg", ".jpeg", ".webp")
+                   if (ep.dir / "images" / f"thumb{e}").exists()), None)
+    if manual:  # elle eklenen kapak görseli
+        Image.open(manual).convert("RGB").save(base)
+    elif force or not base.exists():
         icfg = cfg["images"]
         prompt = images.build_prompt(th["image"] + " Bold, high-contrast, eye-catching YouTube thumbnail "
                                      "composition, one big expressive main character, simple background, "

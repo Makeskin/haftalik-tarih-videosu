@@ -211,6 +211,13 @@ def generate(ep: Episode, only: list[str] | None = None, force: bool = False) ->
         prompt = build_prompt(sc["image"], chars, compact=free)
         h = hashlib.sha1((prompt + cfg["model"] + cfg["quality"]).encode()).hexdigest()[:10]
         stamp = out.with_suffix(".hash")
+        # elle eklenen görsel (episodes/<slug>/images/<id>.png|jpg|webp) her zaman önceliklidir
+        manual = next((ep.dir / "images" / f"{sc['id']}{e}" for e in (".png", ".jpg", ".jpeg", ".webp")
+                       if (ep.dir / "images" / f"{sc['id']}{e}").exists()), None)
+        if manual:
+            Image.open(manual).convert("RGB").save(out)
+            stamp.write_text(h)
+            return "cached", sc["id"]
         if out.exists() and not force and stamp.exists() and stamp.read_text() == h:
             return "cached", sc["id"]
         if time.time() - t0 > budget:
