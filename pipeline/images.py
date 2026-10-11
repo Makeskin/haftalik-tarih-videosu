@@ -212,7 +212,9 @@ def generate(ep: Episode, only: list[str] | None = None, force: bool = False) ->
         out = ep.images / f"{sc['id']}.png"
         free = cfg["provider"] in ("cloudflare", "pollinations")
         prompt = build_prompt(sc["image"], chars, compact=free or cfg["provider"] == "gemini")
-        h = hashlib.sha1((prompt + cfg["model"] + cfg["quality"]).encode()).hexdigest()[:10]
+        # sağlayıcı değişince eski sağlayıcının önbellekteki görselleri geçersiz sayılsın
+        tag = ("gemini:" + cfg.get("gemini_model", "")) if cfg["provider"] == "gemini" else ""
+        h = hashlib.sha1((prompt + cfg["model"] + cfg["quality"] + tag).encode()).hexdigest()[:10]
         stamp = out.with_suffix(".hash")
         # elle eklenen görsel (episodes/<slug>/images/<id>.png|jpg|webp) her zaman önceliklidir
         manual = next((ep.dir / "images" / f"{sc['id']}{e}" for e in (".png", ".jpg", ".jpeg", ".webp")
