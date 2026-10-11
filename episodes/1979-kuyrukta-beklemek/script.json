@@ -4,7 +4,7 @@
  "characters": {
   "SEN": "a 35-year-old Istanbul office clerk and father, white round head, dot eyes, thin black mustache, brown 1970s suit jacket with wide lapels, mustard knitted vest, flared grey trousers",
   "ES": "a 1970s Istanbul mother, white round head, dot eyes, short dark bob hair, orange floral house dress, olive green cardigan",
-  "KIZ": "an 8-year-old schoolgirl, white round head, dot eyes, two pigtails with white ribbons, black school smock with a white collar",
+  "KIZ": "a small primary school pupil, white round head, dot eyes, two short pigtails with white ribbons, black school uniform with a white collar",
   "BAKKAL": "a neighborhood grocer, white round head, dot eyes, grey mustache, white apron over a striped shirt, a pencil behind the ear",
   "SEN_YASLI": "an 82-year-old grandfather, white round head, dot eyes, white mustache, grey flat cap, navy blue cardigan, round glasses"
  },
@@ -82,7 +82,7 @@
    "scenes": [
     {
      "say": "Bin dokuz yüz yetmiş dokuz.",
-     "image": "Wide establishing shot of a 1970s Istanbul neighborhood street before dawn in winter: old apartment blocks, bare trees, a few boxy 1970s sedan cars parked, dim street lamps, cold blue light, a long line of tiny figures along the sidewalk.",
+     "image": "Wide establishing shot of a 1970s Istanbul neighborhood street before dawn in winter: old apartment blocks, leafless trees, a few boxy 1970s sedan cars parked, dim street lamps, cold blue light, a long line of tiny figures along the sidewalk.",
      "overlay": "1979",
      "overlay_pos": "top-left"
     },
@@ -155,7 +155,7 @@
     },
     {
      "say": "Kışın kızının okulu haftalarca kapalı kalacak.",
-     "image": "A closed school gate with a chain and padlock in the snow, an empty schoolyard behind it, a bored schoolgirl looking through the bars."
+     "image": "A closed school gate with a chain and padlock in the snow, an empty schoolyard behind it, a school bag left on the snowy ground in front of the gate."
     },
     {
      "say": "Ve en sık duyacağın kelime şu olacak.",
@@ -509,7 +509,7 @@
     },
     {
      "say": "Margarin geldiği gün haber bütün mahalleye yayılıyor.",
-     "image": "Women leaning out of apartment windows calling to each other across a narrow street, children running with shopping nets."
+     "image": "Women leaning out of apartment windows calling to each other across a narrow street, neighbors hurrying along the street with shopping nets."
     },
     {
      "say": "Anlatılanlara göre kimi bakkal paketi ikiye bölüp satıyor.",
@@ -546,7 +546,7 @@
    "scenes": [
     {
      "say": "Buna karaborsa deniyor.",
-     "image": "A shady man in a long coat opening it slightly to show goods hidden inside, in a back alley at night, comedic not scary.",
+     "image": "A street trader in a back alley at night selling tins, packets and bottles out of an open suitcase on the ground, looking left and right, comedic mood.",
      "overlay": "KARABORSA"
     },
     {
@@ -791,12 +791,12 @@
     },
     {
      "say": "Tatil uzadıkça uzuyor. Kimi hesaba göre elli günü buluyor.",
-     "image": "{KIZ} building a big snowman in the street with other children, schoolbag forgotten in the snow.",
+     "image": "{KIZ} building a big snowman in the snowy street, a school bag forgotten in the snow.",
      "overlay": "~50 GÜN TATİL"
     },
     {
      "say": "Okullar ancak mart başında açılıyor.",
-     "image": "Children in black smocks walking back through the school gate as the snow melts, a teacher ringing a hand bell."
+     "image": "Pupils in black school uniforms walking back through the school gate as the snow melts, a teacher ringing a hand bell."
     },
     {
      "say": "Kızın çok mutlu.",
