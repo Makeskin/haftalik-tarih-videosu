@@ -140,8 +140,7 @@ jobs:
           touch run.log
           S=${{ steps.slug.outputs.slug }}
           # o ana kadar üretilen görsellerin kontakt sayfası (kalite erkenden görülsün)
-          ffmpeg -v error -y -framerate 1 -pattern_type glob -i "episodes/$S/build/images/*.png" \
-            -vf "scale=320:214,tile=12x14" -frames:v 1 gorseller.jpg || true
+          python -m pipeline.sheet "$S" gorseller.jpg 2>&1 | tee -a run.log || true
           [ -f gorseller.jpg ] || cp run.log gorseller.jpg
           gh release create "hata-${{ github.run_id }}" run.log gorseller.jpg --prerelease \
             --title "HATA: ${{ steps.slug.outputs.slug }}" --notes "$(tail -c 3000 run.log)"
