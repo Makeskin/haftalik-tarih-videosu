@@ -102,8 +102,10 @@ def free_image(prompt: str, seed: int, cfg: dict) -> bytes:
                 except PromptRejected as e:
                     raise RuntimeError(f"içerik filtresi istemi iki kez reddetti: {e}")
         except QuotaExceeded:
-            _cf_exhausted = True
-            log("Cloudflare günlük ücretsiz kotası doldu → Pollinations'a geçiliyor")
+            # Pollinations'ın ücretsiz katmanı sahneyle ilgisiz görseller üretiyor (11 Ekim 2026 denemesi);
+            # sessizce ona düşmek yerine dur. Üretilenler önbellekte kalır, ertesi gün devam edilir.
+            raise SystemExit("Cloudflare günlük ücretsiz kotası doldu. Üretilen görseller önbellekte; "
+                             "kota yenilenince iş akışını yeniden çalıştır (kaldığı yerden devam eder).")
     time.sleep(15)  # anonymous Pollinations rate limit
     return _pollinations_call(prompt, seed, cfg)
 
