@@ -39,3 +39,14 @@ Cloudflare'i çağırmaz.
 - `durum: hazir` olan sahneler Cloudflare ile üretilmiş ve önbellektedir; yeniden üretmek gerekmez. Stil
   bütünlüğü için tamamını yeniden üretmek istersen hepsini `images/` klasörüne koyman yeterli.
 - Eksik bırakılan sahneler bir sonraki çalıştırmada Cloudflare kotasıyla üretilir.
+
+# Seslendirmeyi dışarıda üretme (Grok ya da başka bir araç)
+
+1. `episodes/<slug>/seslendirme_metni.txt` dosyasındaki metni **hiç değiştirmeden** seslendir. Rakamlar
+   okunuşuyla yazılıdır; paragraflar bölümlerdir, aralarında kısa bir nefes payı yeterli.
+2. Ton: sıcak, hafif alaycı bir belgesel anlatıcısı; Türkçe; orta-hızlı tempo. Müzik ve efekt ekleme.
+3. Çıktıyı tek dosya olarak `episodes/<slug>/kayit.mp3` adıyla kaydet (`.m4a` ya da `.wav` da olur).
+   Araç metni parçalara bölmek zorunda kalırsa parçaları sırayla, arada boşluk bırakmadan tek dosyada
+   birleştir.
+4. Dosyayı commit et ve push et. Boru hattı kaydı kendisi bölümlere ayırır ve görselleri sözlere eşler;
+   metinle kaydın en az %60 oranında eşleşmesi gerekir, yoksa durur.
