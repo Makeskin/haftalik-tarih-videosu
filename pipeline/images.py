@@ -29,7 +29,8 @@ def _cloudflare_call(prompt: str, seed: int, cfg: dict) -> bytes:
     """Cloudflare Workers AI — free daily allocation (~170 FLUX images/day)."""
     acc, tok = env("CLOUDFLARE_ACCOUNT_ID"), env("CLOUDFLARE_API_TOKEN")
     url = f"https://api.cloudflare.com/client/v4/accounts/{acc}/ai/run/{CF_MODEL}"
-    body = {"prompt": prompt[:2048], "steps": int(cfg.get("steps", 4)), "seed": seed}
+    # Cloudflare artık "seed" alanını kabul etmiyor (400: Additional properties '/seed' not allowed)
+    body = {"prompt": prompt[:2048], "steps": int(cfg.get("steps", 4))}
     for attempt in range(5):
         try:
             r = requests.post(url, headers={"Authorization": f"Bearer {tok}"}, json=body, timeout=120)
@@ -42,6 +43,8 @@ def _cloudflare_call(prompt: str, seed: int, cfg: dict) -> bytes:
                 raise QuotaExceeded(msg)
             if r.status_code in (401, 403):
                 raise SystemExit("Cloudflare anahtarı hatalı — CLOUDFLARE_ACCOUNT_ID / CLOUDFLARE_API_TOKEN kontrol et")
+            if r.status_code == 400:  # hatalı istek: yeniden denemek sonucu değiştirmez, hemen dur
+                raise SystemExit(f"Cloudflare isteği reddetti (400): {msg}")
         except requests.RequestException as e:
             log("Cloudflare istek hatası:", e)
         time.sleep(3 * 2 ** attempt)
