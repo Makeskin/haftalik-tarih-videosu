@@ -1,6 +1,6 @@
 # Haftalık tarih videosu otomasyonu — ana ayarlar
 channel:
-  name: "KANAL ADI"            # kendi kanal adını yaz
+  name: "O Yıl Sen"            # youtube.com/@oyilsen
   instagram: ""                # örn. https://www.instagram.com/kanaladi/
   footer: ""                   # açıklamanın en altına eklenecek satır (isteğe bağlı)
 

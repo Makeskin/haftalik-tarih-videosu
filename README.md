@@ -22,7 +22,7 @@ Claude → videoyu, kapağı ve metinleri sana gönderir → sen onaylayıp yük
 4. `config.yaml` içindeki `channel.name` ve `instagram` alanlarını doldur.
 
 ## Elle çalıştırma
-- GitHub → Actions → "Videoyu üret" → Run workflow → slug: `1938-turkiyede-dogmak`
+- GitHub → Actions → "Videoyu üret" → Run workflow → slug: `1979-kuyrukta-beklemek`
 - Ucuz deneme: `images_quality` alanına `low` yaz.
 - Yerelde: `IMAGES_PROVIDER=placeholder VOICE_PROVIDER=dummy python -m pipeline all <slug>` hiç para harcamadan zamanlamayı ve kurguyu test eder.
 
