@@ -50,3 +50,19 @@ Cloudflare'i çağırmaz.
    birleştir.
 4. Dosyayı commit et ve push et. Boru hattı kaydı kendisi bölümlere ayırır ve görselleri sözlere eşler;
    metinle kaydın en az %60 oranında eşleşmesi gerekir, yoksa durur.
+
+# Görselleri Gemini API ile toplu üretme (ücretli, hızlı)
+
+Bilgisayarda `GEMINI_API_KEY` tanımlıysa (ücretli projenin anahtarı) eksik görseller tek komutla üretilir:
+
+```
+python -m pipeline.gemini_images 1979-kuyrukta-beklemek --limit 3     # önce 3 görsellik deneme
+python -m pipeline.gemini_images 1979-kuyrukta-beklemek               # kalanların hepsi
+```
+
+- Dosyası olan sahneler atlanır; yarıda kesilirse aynı komut kaldığı yerden sürer.
+- Karakter tutarlılığı için `images/s01_04.png` her isteğe stil referansı olarak eklenir.
+- Daha ucuz model: `--model gemini-3.1-flash-lite-image`.
+- Tek tek yeniden üretmek: `--only s01_03,s01_11 --force`.
+- Bitince `episodes/<slug>/images/` klasörünü commit edip push et; sonra GitHub → Actions → "Videoyu üret" →
+  Run workflow → slug.
