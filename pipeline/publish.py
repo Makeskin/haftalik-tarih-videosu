@@ -56,6 +56,14 @@ def thumbnail(ep: Episode, force: bool = False):
                                      "leave the left 45% calm for title text.", ep.characters())
         if icfg["provider"] == "placeholder":
             images.placeholder(base, th["image"], "thumb")
+        elif icfg["provider"] == "gemini":
+            from . import gemini_images as gi
+            from .common import env
+            p3 = images.build_prompt(th["image"] + " Eye-catching YouTube thumbnail, one big expressive main "
+                                     "character on the right side, simple uncluttered background, left 45% of "
+                                     "the image calm and empty.", ep.characters(), compact=True)
+            base.write_bytes(gi.call(icfg.get("gemini_model", "gemini-3.1-flash-image"), env("GEMINI_API_KEY"),
+                                     p3 + gi.TAIL, None))
         elif icfg["provider"] in ("cloudflare", "pollinations"):
             p2 = images.build_prompt(th["image"] + " Eye-catching YouTube thumbnail, one big expressive main "
                                      "character on the right side, simple uncluttered background.",

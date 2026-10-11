@@ -15,7 +15,7 @@ Claude → videoyu, kapağı ve metinleri sana gönderir → sen onaylayıp yük
 ```
 
 ## Bir kerelik kurulum (ücretsiz)
-1. **Görseller — Cloudflare Workers AI (önerilen, bedava):** dash.cloudflare.com'da ücretsiz hesap aç. Sol menü → AI → Workers AI → "Use REST API" → **Create a Workers AI API Token**. Token'ı ve sayfadaki **Account ID**'yi GitHub Secrets'a ekle: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`. Günde ~170 görsel bedava; kota dolarsa sistem otomatik olarak Pollinations'a geçer.
+1. **Görseller — Cloudflare Workers AI (bedava, günlük kota bir videoya yetmez):** dash.cloudflare.com'da ücretsiz hesap aç. Sol menü → AI → Workers AI → "Use REST API" → **Create a Workers AI API Token**. Token'ı ve sayfadaki **Account ID**'yi GitHub Secrets'a ekle: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`. Günde ~170 görsel bedava; kota dolarsa sistem otomatik olarak Pollinations'a geçer.
    - Cloudflare eklemezsen her şey **Pollinations** (anahtarsız, bedava) ile çalışır ama daha yavaştır (~15 sn/görsel).
 2. **Ses:** varsayılan bedava Microsoft Türkçe sesi (tr-TR-AhmetNeural). Kendi sesin için senaryoyu tek seferde oku, `episodes/<slug>/kayit.mp3` olarak repoya yükle; sistem kaydını otomatik böler ve görselleri sözlerine senkronlar.
 3. Ücretli seçenekler (isteğe bağlı): `config.yaml` → `images.provider: openai` (+ `OPENAI_API_KEY`), `voice.provider: elevenlabs` (+ `ELEVENLABS_API_KEY`, `ELEVENLABS_VOICE_ID`).

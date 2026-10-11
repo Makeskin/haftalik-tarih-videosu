@@ -201,6 +201,9 @@ def generate(ep: Episode, only: list[str] | None = None, force: bool = False) ->
         scenes = [s for s in scenes if s["id"] in only]
     report = {"generated": 0, "cached": 0, "failed": []}
 
+    # Gemini için isteğe bağlı karakter/stil referansı: episodes/<slug>/ref.png|jpg
+    gem_ref = next(((ep.dir / f"ref{e}").read_bytes() for e in (".png", ".jpg", ".jpeg")
+                    if (ep.dir / f"ref{e}").exists()), None)
     t0 = time.time()
     budget = float(os.environ.get("IMAGES_TIME_BUDGET_MIN", "110")) * 60
     report["skipped"] = []
@@ -208,7 +211,7 @@ def generate(ep: Episode, only: list[str] | None = None, force: bool = False) ->
     def job(sc):
         out = ep.images / f"{sc['id']}.png"
         free = cfg["provider"] in ("cloudflare", "pollinations")
-        prompt = build_prompt(sc["image"], chars, compact=free)
+        prompt = build_prompt(sc["image"], chars, compact=free or cfg["provider"] == "gemini")
         h = hashlib.sha1((prompt + cfg["model"] + cfg["quality"]).encode()).hexdigest()[:10]
         stamp = out.with_suffix(".hash")
         # elle eklenen görsel (episodes/<slug>/images/<id>.png|jpg|webp) her zaman önceliklidir
@@ -224,6 +227,12 @@ def generate(ep: Episode, only: list[str] | None = None, force: bool = False) ->
             return "skipped", sc["id"]
         if cfg["provider"] == "placeholder":
             placeholder(out, sc["image"], sc["id"])
+        elif cfg["provider"] == "gemini":
+            from . import gemini_images as gi
+            # karakter referansı yalnızca ana karakterin ({SEN...}) geçtiği sahnelere eklenir
+            ref = gem_ref if "{SEN" in sc["image"] else None
+            out.write_bytes(gi.call(cfg.get("gemini_model", "gemini-3.1-flash-image"), env("GEMINI_API_KEY"),
+                                    build_prompt(sc["image"], chars, compact=True) + gi.TAIL, ref))
         elif free:
             seed = int(hashlib.md5(sc["id"].encode()).hexdigest()[:6], 16)
             out.write_bytes(free_image(prompt, seed, cfg))
@@ -237,7 +246,8 @@ def generate(ep: Episode, only: list[str] | None = None, force: bool = False) ->
         stamp.write_text(h)
         return "generated", sc["id"]
 
-    workers = 1 if cfg["provider"] in ("cloudflare", "pollinations") else int(cfg.get("concurrency", 4))
+    workers = (1 if cfg["provider"] in ("cloudflare", "pollinations")
+               else 3 if cfg["provider"] == "gemini" else int(cfg.get("concurrency", 4)))
     with ThreadPoolExecutor(max_workers=workers) as pool:
         futs = {pool.submit(job, s): s["id"] for s in scenes}
         for i, f in enumerate(as_completed(futs), 1):

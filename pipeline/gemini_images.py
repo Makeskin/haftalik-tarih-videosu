@@ -23,6 +23,8 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 PRICE = {"gemini-3.1-flash-image": 0.067, "gemini-3.1-flash-lite-image": 0.0336}  # USD/görsel, 1K, resmi liste
+TAIL = (" Wide 16:9 landscape composition, keep heads and important objects away from the top and bottom edges. "
+        "Absolutely no text, letters, numbers or signs with writing anywhere in the image.")
 MAIN_CHAR = "brown 1970s suit jacket"  # {SEN} karakterinin istemdeki ayırt edici ifadesi
 REF_NOTE = (" Use the attached image ONLY as a style and character reference: same line weight, same flat "
             "retro colors, same white-ball-head figures; the mustached man in the brown jacket is the "

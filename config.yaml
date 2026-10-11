@@ -17,7 +17,8 @@ video:
 images:
   # Ücretsiz: cloudflare (günde ~170 FLUX görseli bedava) → kota dolarsa otomatik pollinations (anahtarsız, bedava)
   # Ücretli seçenek: openai (model/quality aşağıda)
-  provider: cloudflare         # cloudflare | pollinations | openai | placeholder (test)
+  provider: gemini             # gemini | cloudflare | pollinations | openai | placeholder (test)
+  gemini_model: gemini-3.1-flash-image   # daha ucuzu: gemini-3.1-flash-lite-image (GEMINI_API_KEY gerekir)
   steps: 4                     # cloudflare FLUX adımı (4–8; 8 daha iyi ama kota yarıya iner)
   model: gpt-image-2           # yalnız openai için
   size: 1536x1024
