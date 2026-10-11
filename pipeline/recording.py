@@ -21,7 +21,15 @@ def from_recording(ep: Episode, rec):
 
     log(f"kendi kaydın kullanılıyor: {rec.name} — konuşma çözümleniyor")
     model = WhisperModel("small", device="cpu", compute_type="int8")
-    segs, _ = model.transcribe(str(rec), language="tr", word_timestamps=True, vad_filter=False)
+    # Sesi ffmpeg ile kendimiz çözüyoruz: faster-whisper'ın iç çözücüsü yeni PyAV sürümüyle uyumsuz
+    # ("open() got an unexpected keyword argument 'metadata_errors'").
+    import subprocess
+    import numpy as np
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(rec), "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
+                         capture_output=True, check=True).stdout
+    audio = np.frombuffer(raw, np.int16).astype(np.float32) / 32768.0
+    log(f"ses çözüldü: {len(audio) / 16000:.0f} sn")
+    segs, _ = model.transcribe(audio, language="tr", word_timestamps=True, vad_filter=False)
     heard = [(w.start, w.end, _norm(w.word)) for s in segs for w in s.words]
     heard = [h for h in heard if h[2]]
 
