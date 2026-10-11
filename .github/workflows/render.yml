@@ -74,6 +74,7 @@ jobs:
             episodes/${{ steps.slug.outputs.slug }}/build/images
             episodes/${{ steps.slug.outputs.slug }}/build/audio
             episodes/${{ steps.slug.outputs.slug }}/build/thumb_base.png
+            episodes/${{ steps.slug.outputs.slug }}/build/thumb_base.hash
           key: build-${{ steps.slug.outputs.slug }}-${{ github.run_id }}
           restore-keys: build-${{ steps.slug.outputs.slug }}-
 
@@ -133,6 +134,7 @@ jobs:
             episodes/${{ steps.slug.outputs.slug }}/build/images
             episodes/${{ steps.slug.outputs.slug }}/build/audio
             episodes/${{ steps.slug.outputs.slug }}/build/thumb_base.png
+            episodes/${{ steps.slug.outputs.slug }}/build/thumb_base.hash
           key: build-${{ steps.slug.outputs.slug }}-${{ github.run_id }}
 
       - name: Hata kaydını yayınla (Claude okuyabilsin)
