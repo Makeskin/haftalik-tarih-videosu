@@ -219,7 +219,7 @@
     {
      "say": "Petrolün varili bir yıl içinde on altı dolardan kırk dolara yaklaşıyor.",
      "image": "Two oil barrels side by side, a small one and one more than twice as tall, with a rising red arrow between them.",
-     "overlay": "16 → 40 DOLAR"
+     "overlay": "16'DAN 40 DOLARA"
     },
     {
      "say": "Türkiye'nin bütün ihracat geliri, tek başına petrol faturasına bile yetmiyor.",
@@ -643,7 +643,7 @@
     {
      "say": "Ocak bin dokuz yüz seksende tüp, bir gecede yüz yirmi beş liradan yüz seksen iki liraya çıkacak.",
      "image": "Two gas cylinders side by side with a rising arrow between them, coins stacked next to each, the second stack much taller.",
-     "overlay": "125 → 182 TL"
+     "overlay": "125'TEN 182 TL"
     },
     {
      "say": "Bir akşam tam yemek pişerken ocak sönüyor.",
@@ -850,7 +850,7 @@
     {
      "say": "Dolar kırk yedi liradan yetmiş liraya çıktı.",
      "image": "A green banknote on a seesaw shooting up into the air while a small pile of old coins drops down on the other side.",
-     "overlay": "47 → 70 TL",
+     "overlay": "47'DEN 70 TL",
      "overlay_pos": "center"
     },
     {
@@ -861,7 +861,7 @@
     {
      "say": "İki yıl önce yirmi beş liraydı.",
      "image": "Three steps of a staircase, each higher than the last, with a green banknote climbing them.",
-     "overlay": "25 → 47 → 70"
+     "overlay": "25 - 47 - 70"
     },
     {
      "say": "Arkasından zamlar sıralanıyor.",

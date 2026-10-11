@@ -165,7 +165,7 @@ sections:
     image: A 1970s passenger airplane taking off from an airport at dusk, a few figures watching from the runway.
   - say: Petrolün varili bir yıl içinde on altı dolardan kırk dolara yaklaşıyor.
     image: Two oil barrels side by side, a small one and one more than twice as tall, with a rising red arrow between them.
-    overlay: 16 → 40 DOLAR
+    overlay: 16'DAN 40 DOLARA
   - say: Türkiye'nin bütün ihracat geliri, tek başına petrol faturasına bile yetmiyor.
     image: A small wallet lying next to a very long paper bill that unrolls across a table and onto the floor.
   - say: O günlerde siyasetçilerin dilinde bir söz dolaşıyor.
@@ -397,7 +397,7 @@ sections:
     image: A row of empty gas cylinders, shopping bags and stools left on the sidewalk holding places in a queue, a few neighbors chatting beside them.
   - say: Ocak bin dokuz yüz seksende tüp, bir gecede yüz yirmi beş liradan yüz seksen iki liraya çıkacak.
     image: Two gas cylinders side by side with a rising arrow between them, coins stacked next to each, the second stack much taller.
-    overlay: 125 → 182 TL
+    overlay: 125'TEN 182 TL
   - say: Bir akşam tam yemek pişerken ocak sönüyor.
     image: A stove flame going out under a pot in a 1970s kitchen, {ES} staring at it with a wooden spoon in her hand.
   - say: Kuru fasulye artık sobanın üstünde pişiyor.
@@ -509,14 +509,14 @@ sections:
     image: A black-and-white television screen showing a news presenter with a white round head in a suit and tie reading from a sheet of paper at a desk.
   - say: Dolar kırk yedi liradan yetmiş liraya çıktı.
     image: A green banknote on a seesaw shooting up into the air while a small pile of old coins drops down on the other side.
-    overlay: 47 → 70 TL
+    overlay: 47'DEN 70 TL
     overlay_pos: center
   - say: Hem de bir gecede.
     reuse: s11_04
     move: in
   - say: İki yıl önce yirmi beş liraydı.
     image: Three steps of a staircase, each higher than the last, with a green banknote climbing them.
-    overlay: 25 → 47 → 70
+    overlay: 25 - 47 - 70
   - say: Arkasından zamlar sıralanıyor.
     reuse: s11_04
     move: out
