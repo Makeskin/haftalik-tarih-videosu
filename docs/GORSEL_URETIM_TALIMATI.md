@@ -28,6 +28,13 @@ Cloudflare'i çağırmaz.
 6. Push videoyu kendiliğinden başlatmaz. Üretimi başlatmak için GitHub → Actions → "Videoyu üret" →
    Run workflow → slug alanına bölüm klasörünün adını yaz.
 
+## Çalışma sırası
+- Önce yalnızca ilk 6 kaydı üret ve dur; stil onaylanınca kalanına devam et.
+- Kayıtları dosyadaki sırayla işle. Yarıda kalırsan `images/` klasöründe dosyası olan kayıtları atla ve
+  kaldığın yerden sürdür.
+- Ana karakter `{SEN}` (bıyıklı, kahverengi ceketli memur) bütün sahnelerde aynı görünmeli: ilk ürettiğin
+  görseli sonraki sahneler için karakter referansı olarak kullan.
+
 ## Notlar
 - `durum: hazir` olan sahneler Cloudflare ile üretilmiş ve önbellektedir; yeniden üretmek gerekmez. Stil
   bütünlüğü için tamamını yeniden üretmek istersen hepsini `images/` klasörüne koyman yeterli.
