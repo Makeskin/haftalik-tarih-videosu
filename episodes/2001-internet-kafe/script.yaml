@@ -1,0 +1,553 @@
+# O Yıl Sen — Bölüm 3: 2001 İnternet Kafe
+title: "Eğer 2001'de Bir İnternet Kafe Müdavimi Olsaydın?"
+motif: "Süre — ekrandaki geri sayım ve tükenen dakikalar; tekrar eden şaka: farenin içindeki lastik bilyeyi çıkarıp avuçta yuvarlamak"
+characters:
+  SEN: "a 16-year-old Turkish high school student in 2001, white round head, dot eyes, wearing an oversized navy blue hoodie, loose denim trousers, sneakers"
+  KAFECI_ABI: "a 28-year-old internet cafe owner in 2001 Turkey, white round head, dot eyes, mustache, cigarette tucked behind ear, dark vest over a polo shirt"
+  ARKADAS: "a 16-year-old male classmate in 2001 Turkey, white round head, dot eyes, wearing a grey athletic sweatshirt"
+  POLIS: "a Turkish police officer in 2001 uniform, white round head, dot eyes, dark blue peaked cap and jacket, holding a clipboard"
+  TOSTCU_CIRAK: "a 14-year-old cafe helper in 2001, white round head, dot eyes, simple white apron, carrying toasted bread on a small plate"
+youtube:
+  title: "Eğer 2001'de Bir İnternet Kafe Müdavimi Olsaydın?"
+  description: |-
+    2001. Okul zili çalıyor. Çantayı tek omzuna asıp bodrum katın merdivenlerine koşuyorsun. Ağır demir kapıyı ittiğin an o koku seni karşılıyor: yanık kaşarlı tost, bayat sigara dumanı ve onlarca kasanın fan uğultusu.
+
+    Bu videoda evinde internetin ve bilgisayarın lüks olduğu iki bin bir yılına dönüyoruz: farenin içindeki lastik bilyeyi temizlemek, masaya bir saat süre açtırmak, de_dust2 haritasında kör eden flash bombaları, Half-Life'ta siren çalınca sığınağa koşan on kişi, mIRC pencerelerinde 'slm asl' yazışmaları, 1.44 megabaytlık diskete sığdırılan hayatlar ve ansızın içeri giren polis denetimleri.
+
+    Sen iki binli yıllarda internet kafeye gider miydin? En çok hangi oyunu oynardın? Masanın süresi bittiğinde ne yapardın? Hikâyeni yorumlara yaz.
+
+    Not: Hikâye kurgusal bir öğrencinin gözünden anlatılır; videodaki rakamlar doğrulanmış resmi kaynaklara dayanır. Görseller ve seslendirme yapay zekâ ile üretilmiştir.
+
+    #2001 #InternetKafe #CounterStrike #Nostalji #Türkiye #YakınTarih
+  tags:
+    - "2001"
+    - "internet kafe"
+    - "counter strike"
+    - "de_dust2"
+    - "half life"
+    - "mirc"
+    - "icq"
+    - "tost"
+    - "nostalji"
+    - "türkiye tarihi"
+    - "tüplü monitör"
+    - "lise yılları"
+    - "eğer olsaydın"
+    - "o yıl sen"
+  hashtags:
+    - "#2001"
+    - "#InternetKafe"
+    - "#CounterStrike"
+    - "#Nostalji"
+    - "#Türkiye"
+    - "#YakınTarih"
+  pinned_comment: "Sen iki binlerin başında internet kafede en çok hangi oyunu oynardın? Arkadaşlarınla en büyük LAN partisi anını yaz, sabitleyelim."
+thumbnail:
+  image: 'a packed basement internet cafe in 2001 Turkey, glowing beige CRT monitors in dim light, a shocked teenage boy looking at the camera, behind him rows of youngsters shouting in headsets, vapor of toasted sandwich in air, 35mm film grain, cinematic'
+  text: "2001'DE\nKAFEDEYDİN"
+sources:
+  - "2001 yılında Türkiye genelinde internet kullanıcı sayısının yaklaşık 2 milyon olması — DPT 2001 Yılı Programı: https://www.sbb.gov.tr"
+  - "2004 yılında Türkiye'de hanelerin masaüstü bilgisayar sahipliğinin %10, internet erişiminin %7 olması — TÜİK Hanehalkı Bilişim Teknolojileri Kullanım Araştırması 2004: https://data.tuik.gov.tr"
+  - "2024 yılında 16-74 yaş grubunda internet kullanım oranının %88.8, hanelerde internet erişiminin %95.5 olması — TÜİK 2024 Bilişim Teknolojileri Araştırması: https://data.tuik.gov.tr"
+  - "2001 yılında net asgari ücretin yaklaşık 102 milyon ile 122 milyon TL arasında olması — T.C. Çalışma ve Sosyal Güvenlik Bakanlığı: https://www.csgb.gov.tr"
+  - "2001 yılında internet kafe saatlik ücretinin 1 milyon ile 1.5 milyon TL civarında olması — Dönemin basın arşivi ve kullanıcı tanıklıkları"
+  - "2000-2001 yıllarında İçişleri Bakanlığı internet kafe genelgeleri, 12 yaş altı yasağı ve emniyet denetimleri — Hürriyet ve Bianet arşivleri: https://www.hurriyet.com.tr ; https://www.bianet.org"
+  - "Türkiye'de ilk internet kafenin 1995'te açılması ve 2000'lerin başında binlerce kafeye ulaşması — Milliyet Pazar, 28.11.2004: https://www.milliyet.com.tr"
+  - "Counter-Strike 1.3 sürümünün Eylül 2001'de çıkması ve de_dust2 haritası — Valve / Wikipedia: https://en.wikipedia.org/wiki/Counter-Strike"
+  - "Türkiye'de ADSL altyapısının 2003 yılında pilot olarak başlaması, 2001'de evlerde 56k dial-up veya kafelerde kiralık hat/KabloNet kullanılması — TTNet arşivi / Wikipedia"
+  - "3.5 inç disket kapasitesinin 1.44 MB olması — Wikipedia: https://en.wikipedia.org/wiki/Floppy_disk"
+sections:
+  - title: "2001: Bodrum Katın Merdivenleri"
+    scenes:
+      - say: "İki bin bir yılı, serin bir sonbahar ikindisi."
+        image: 'wide shot of a Turkish street in 2001, stone apartment buildings, a hand-painted blue sign pointing down steep stairs reading "NET İNTERNET CAFE", cinematic daylight'
+        overlay: "2001"
+        overlay_pos: top-left
+      - say: "Son ders zili az önce çaldı."
+        image: 'medium shot of a high school gate in 2001 Turkey, uniformed students rushing out with backpacks, dynamic angle'
+      - say: "Çantanı omzuna asıp arka sokağa sapıyorsun."
+        image: 'medium shot of {SEN} walking fast through a narrow Istanbul side street, looking determined, 35mm film grain'
+      - say: "Önünde dik, dar ve loş bodrum merdivenleri var."
+        image: 'point of view looking down narrow concrete stairs leading into a dark basement entrance, a flickering yellow light bulb overhead'
+      - say: "Ağır metal kapıyı omzunla itiyorsun."
+        image: 'close-up of hands pushing open a heavy grey metal door with small glass window covered in stickers'
+      - say: "Ve işte o unutulmaz koku."
+        image: 'wide shot looking into a smoky, dimly lit basement internet cafe in 2001, rows of beige computer monitors glowing in darkness'
+      - say: "Yanık kaşarlı tost ekmeği ve bayat tütün dumanı."
+        image: 'close-up of a greasy dual-plate sandwich press steaming beside dusty computer towers, hazy atmosphere'
+      - say: "Onlarca kasanın sıcak plastik kokusu havaya karışıyor."
+        image: 'close-up of dusty beige computer tower fan vents spinning, blowing warm air into the room'
+      - say: "İçeriden kulakları sağır eden bir uğultu yükseliyor."
+        image: 'medium shot of crowded rows of teenagers sitting closely on worn office chairs, yelling into bulky headsets'
+      - say: "Masa beşe bir saat aç abi!"
+        image: 'medium shot of {SEN} standing at a wooden reception counter, leaning forward to talk to the cashier'
+        overlay: "MASA 5"
+        overlay_pos: bottom-right
+      - say: "Tebrikler, dijital çağın mabedine hoş geldin."
+        image: 'high angle wide shot of the bustling internet cafe, blue glow reflecting on concentrated young faces'
+      - say: "Ama sevinmek için çok erken."
+        image: 'close-up of an old digital wall clock clicking forward in the dim room, red digits'
+      - say: "Bu kapıda seni üç büyük sınav bekliyor."
+        image: 'medium shot of {SEN} looking around with tense anticipation, dark ambient lighting'
+      - say: "Az sonra kör eden beyaz bir ışık patlayacak."
+        image: 'dramatic close-up of a computer screen turning completely blinding white, illuminating a terrified face'
+      - say: "Gözlerini ovuştursan da hiçbir şey göremeyeceksin."
+        reuse: s01_14
+        move: in
+      - say: "Sığınak kapısı suratına kapanacak."
+        image: 'cinematic shot of a metal blast door slamming shut in a virtual game arena, dust flying'
+      - say: "Ve ekranda beliren kırmızı bir sayaç hayatını karartacak."
+        image: 'close-up of a desktop screen showing a bright red timer ticking down to zero seconds'
+      - say: "Şu deri koltuğa otur, fareyi eline al."
+        image: 'medium shot of {SEN} pulling up a worn faux-leather swivel chair and placing a hand on a beige mouse, cinematic lighting'
+
+  - title: "Önce Biraz Arka Plan"
+    scenes:
+      - say: "Geriye çekilip büyük resme bakalım."
+        image: 'wide aerial shot of Istanbul in 2001, television aerials on roofs, yellow taxis in traffic, overcast autumn sky'
+        overlay: "TÜRKİYE 2001"
+        overlay_pos: top-left
+      - say: "Ülke derin bir ekonomik krizin tam ortasında."
+        image: 'medium shot of a Turkish newspaper kiosk in 2001, headlines about inflation and crisis, people walking by somberly'
+      - say: "Televizyondaki haberler endişe verici."
+        image: 'medium shot of citizens gathered around a shop window television showing economic news broadcasts'
+      - say: "Cebindeki paranın üzerinde bolca sıfır var."
+        image: 'close-up of hands holding two wrinkled brown paper banknotes of one million Turkish Liras'
+        overlay: "1.000.000 TL"
+        overlay_pos: bottom-right
+      - say: "Türkiye'nin nüfusu altmış yedi milyonu aşmış durumda."
+        image: 'wide shot of a crowded pedestrian avenue in 2001, bustling city life, retro buses'
+      - say: "Koca ülkede internet kullanan yalnızca iki milyon kişi var."
+        image: 'infographic style cinematic shot of a map of Turkey with tiny sparse glowing dots of connectivity'
+        overlay: "2 MİLYON KİŞİ"
+        overlay_pos: top-right
+      - say: "Hanelerin sadece yüzde onunda bir masaüstü bilgisayar var."
+        image: 'medium shot of an ordinary Turkish living room in 2001, lace doily on a tube television, empty wooden desk with no computer'
+        overlay: "%10 BİLGİSAYAR"
+        overlay_pos: bottom-left
+      - say: "Evden internete bağlanabilenlerin oranıysa yüzde yedi bile değil."
+        image: 'close-up of a grey dial-up modem with blinking red LEDs, tangled telephone wire'
+        overlay: "%7 İNTERNET"
+        overlay_pos: bottom-left
+      - say: "Bilgisayar almak, sıradan bir memurun altı aylık maaşı."
+        image: 'medium shot of a modest middle-class Turkish family looking anxiously at an electronics store window with high price tags'
+      - say: "Evde internet yoksa, çözüm bellidir."
+        image: 'low angle exterior shot of an internet cafe sign glowing in an alleyway, welcoming youth'
+      - say: "Mahalle aralarında mantar gibi türeyen bodrum katları."
+        image: 'wide shot of a busy neighborhood street with three different internet cafe signs in the same block'
+      - say: "Bu kelimeyi aklında tut."
+        image: 'extreme close-up of a glowing digital clock face in green phosphor letters'
+        overlay: "SÜRE"
+        overlay_pos: center
+      - say: "Çünkü burada her nefesin bir bedeli var."
+        reuse: s02_12
+        move: in
+
+  - title: "Sen Kimsin?"
+    scenes:
+      - say: "Sen on altı yaşında bir lise öğrencisisin."
+        image: 'medium portrait of {SEN} wearing a slightly oversized navy hoodie and a backpack strap, standing in the doorway'
+        overlay: "16 YAŞINDA"
+        overlay_pos: top-left
+      - say: "Üzerinde okul formanın üstüne geçirdiğin hırka var."
+        image: 'close-up of {SEN} adjusting the zipper of the dark hoodie over a school shirt collar'
+      - say: "Cebinde toplam iki buçuk milyon lira harçlık duruyor."
+        image: 'close-up of {SEN} checking trouser pockets, pulling out two one-million notes and a few shiny coins'
+        overlay: "2.500.000 TL"
+        overlay_pos: bottom-right
+      - say: "O tarihte internet kafenin saatlik ücreti tam bir milyon lira."
+        image: 'close-up of a cardboard sign behind counter with handwriting "1 SAAT 1.000.000 TL"'
+      - say: "Yani iki saat oyun oynarsan,"
+        image: 'medium shot of {SEN} staring thoughtfully at the paper money, weighing priorities with a grin'
+      - say: "Akşama simit alacak paran kalmayacak."
+        image: 'close-up of a street simit vendor cart at dusk, sesame rings under glass'
+      - say: "Ama umurunda bile değil."
+        image: 'close-up of {SEN} with a determined and mischievous smile, walking towards the computers'
+      - say: "Çünkü bütün sınıf burada sözleşti."
+        image: 'medium shot of a group of four teenage boys waving excitedly from a row of computers in the cafe'
+      - say: "Çantanı koltuğun altına fırlatıyorsun."
+        image: 'low angle shot of a heavy canvas school backpack being tossed onto the dusty linoleum floor under the desk'
+      - say: "Hedef beş numaralı masa."
+        image: 'point of view walking towards a small partitioned desk marked with a yellow plastic tag reading "5"'
+        overlay: "MASA 5"
+        overlay_pos: top-right
+
+  - title: "Donanım Töreni ve Lastik Bilye"
+    scenes:
+      - say: "Masaya oturduğun an kutsal bir tören başlar."
+        image: 'medium shot of {SEN} settling into a squeaky dark faux-leather swivel chair before a beige workstation'
+      - say: "Karşında arkası koca bir kambur gibi uzanan tüplü monitör duruyor."
+        image: 'side close-up of a bulky beige CRT monitor with deep back casing sitting on a wooden computer desk'
+        overlay: "CRT MONİTÖR"
+        overlay_pos: top-left
+      - say: "Ekranın köşesine parmağını dokundurduğunda minik bir statik elektrik çıtırtısı duyarsın."
+        image: 'close-up of a finger touching the curved glass screen of CRT monitor, subtle blue spark and static dust'
+      - say: "Klavyenin tuş araları kırıntılarla doludur."
+        image: 'close-up of an old mechanical beige keyboard with grey keys, visible dust and crumb particles between keys'
+      - say: "Kulaklığın süngerleri dökük, sadece solu çalışıyor."
+        image: 'close-up of worn black headphones with peeled foam pads resting on the keyboard'
+      - say: "Ve en kritik parça, farenin kendisidir."
+        image: 'close-up of an old beige optical-less ball mouse on a scratched blue plastic mousepad'
+      - say: "Farenin altını çevirirsin."
+        image: 'close-up of hands turning the mouse upside down, showing the round retaining ring on base'
+      - say: "Plastik halkayı tırnağınla sola çevirip açarsın."
+        image: 'close-up of thumbs twisting the round plastic base ring of the mouse to open it'
+      - say: "Küçük bir klik sesi duyulur."
+        reuse: s04_08
+        move: in
+      - say: "İçinden gri, ağır ve pürüzsüz bir lastik bilye avucuna düşer."
+        image: 'macro shot of a heavy grey rubber mouse ball resting on the open palm of {SEN}'
+        overlay: "LASTİK BİLYE"
+        overlay_pos: bottom-right
+      - say: "Yuvanın içindeki iki küçük plastik çark kir kaplıdır."
+        image: 'macro close-up inside the empty mouse socket showing tiny plastic rollers coated with greasy black dust'
+      - say: "Tırnağınla o siyah kiri dikkatlice kazırsın."
+        image: 'extreme close-up of a fingernail peeling off a ring of compacted grime from the miniature mouse roller'
+      - say: "Bilyeyi hırkana silip yerine takarsın."
+        image: 'close-up of {SEN} rubbing the rubber ball on the cotton hoodie fabric and popping it back into the socket'
+      - say: "Artık nişan alırken faren takılmayacak."
+        image: 'medium shot of {SEN} sliding the mouse smoothly across the blue pad with a satisfied nod'
+
+  - title: "Masa Programının Hükümdarlığı"
+    scenes:
+      - say: "Abi, beş numaraya bir saat açar mısın?"
+        image: 'medium shot of {SEN} shouting across the room towards the counter, raising one index finger'
+      - say: "Kasada oturan abi başını ağır ağır kaldırır."
+        image: 'medium shot of {KAFECI_ABI} sitting behind counter, cigarette behind ear, staring at a master control monitor'
+      - say: "Dudaklarının arasından bir duman halkası bırakır."
+        image: 'close-up of {KAFECI_ABI} exhaling a stream of blue cigarette smoke into the dimly lit air'
+      - say: "İki kere tıklar ve senin ekranın uyanır."
+        image: 'point of view of the CRT monitor desktop flashing from locked black screen to colourful Windows 98 desktop'
+        overlay: "SÜRE BAŞLADI"
+        overlay_pos: top-left
+      - say: "Sağ alt köşede küçük bir kırmızı simge belirir."
+        image: 'close-up of the Windows taskbar showing a red cafe timer icon counting down from sixty minutes'
+        overlay: "59:59"
+        overlay_pos: bottom-right
+      - say: "Geri sayım başlamıştır: elli dokuz dakika elli dokuz saniye."
+        reuse: s05_05
+        move: in
+      - say: "O sayaç senin efendindir."
+        image: 'medium shot of {SEN} staring intensely at the countdown timer in the bottom corner of the screen'
+      - say: "Her saniye cebindeki paranın eriyen bir kırıntısıdır."
+        image: 'close-up of an old wall-mounted calendar page fluttering near the ceiling fan'
+      - say: "Gözün sürekli o kırmızı rakamlara kayar."
+        reuse: s05_07
+        move: left
+      - say: "Zaman kaybetmeye hiç tahammülün yok."
+        image: 'close-up of hands gripping the keyboard and mouse with lightning speed'
+      - say: "Masaüstündeki devasa ikonlar arasından hedefi seçiyorsun."
+        image: 'close-up of desktop shortcuts showing icons for Half-Life, Counter-Strike, mIRC, and Winamp on Windows screen'
+
+  - title: "Bu Yolculukta Üç Büyük Düşmanın Var"
+    scenes:
+      - say: "Bu bodrum katında üç büyük düşmanın var."
+        image: 'wide atmospheric shot of the smoky internet cafe aisle, silhouettes of gamers bathed in pale blue monitor light'
+        overlay: "ÜÇ DÜŞMAN"
+        overlay_pos: top-left
+      - say: "Birincisi, acımasızca tükenen masa süresi."
+        image: 'close-up of the red digital timer jumping down several minutes on screen'
+        overlay: "1. SÜRE"
+        overlay_pos: bottom-right
+      - say: "Tam düşmanla burun buruna geldiğin anda ekran kilitleniverir."
+        image: 'point of view of a dramatic game fight instantly freezing with a grey pop-up dialog "SÜRENİZ DOLDU"'
+      - say: "İkincisi, hemen yan masada oturan liseli."
+        image: 'medium side shot of an older high schooler in next booth puffing cigarette smoke sideways towards {SEN}'
+        overlay: "2. DUMAN"
+        overlay_pos: bottom-right
+      - say: "Sürekli sigarasının dumanını senin yüzüne üfler."
+        image: 'close-up of cigarette smoke drifting directly across the monitor glass'
+      - say: "Duman gözlerini yakar, ekrandaki hedefi seçemez hale gelirsin."
+        image: 'close-up of {SEN} squinting and coughing through a haze of smoke while trying to see the monitor'
+      - say: "Üçüncüsü ise en tehlikelisidir: arka masada gizlice şarkı indirmeye çalışan o çocuk."
+        image: 'medium shot of a guilty-looking teenager in the back corner covertly opening a download program on screen'
+        overlay: "3. DOWNLOAD"
+        overlay_pos: bottom-right
+      - say: "O çocuk Kazaa'dan şarkı indirmeye başladığı an hayat durur."
+        image: 'close-up of a network download manager window with green progress bar creeping slowly on a screen'
+      - say: "Ping fırlar, oyun donar ve kafede kıyamet kopar."
+        image: 'wide shot of the whole cafe erupting in anger, boys standing up from chairs and shouting in protest'
+        overlay: "PING 999"
+        overlay_pos: top-right
+      - say: "Kim indirme yapıyor lan, çıksın aramızdan!"
+        image: 'medium shot of three teenage gamers shouting angrily towards the back rows, waving fists'
+
+  - title: "Savaş Meydanı: de_dust2 ve Crossfire"
+    scenes:
+      - say: "Kafeci abi oyunu kurar."
+        image: 'close-up of master server computer screen showing local area network game lobby "OYILSEN CAFE CS 1.3"'
+        overlay: "LAN GAME"
+        overlay_pos: top-left
+      - say: "On iki bilgisayar aynı yerel ağda birbirine bağlanır."
+        image: 'high angle shot showing thick blue ethernet cables running along baseboards connecting all computer desks'
+      - say: "Harita efsanevi de dust iki."
+        image: 'in-game cinematic perspective of the sandy textured desert corridors of de_dust2 with arched stone gateways'
+        overlay: "DE_DUST2"
+        overlay_pos: top-left
+      - say: "Teröristler tünelde, anti-teröristler pusuda."
+        image: 'dynamic in-game view of pixelated tactical soldiers in green and grey camouflage sprinting through stone alley'
+      - say: "Sol elin klavyede W-A-S-D tuşlarına yapışmış durumda."
+        image: 'close-up of left hand fingers resting tense and agile on WASD keyboard buttons'
+      - say: "Kulaklıkta telsiz anonsu patlar: Go, go, go!"
+        image: 'medium shot of {SEN} wearing bulky lopsided headphones, shouting tactical calls into the air'
+      - say: "Tam kapıdan çıkacakken birisi flash bombası fırlatır."
+        image: 'first-person game view of a round canister bouncing off a sand wall with a metallic clink'
+      - say: "Karanlık koridorda metalik bir ses seker."
+        reuse: s07_07
+        move: in
+      - say: "Ekran bembeyaz olur, kulaklarında çınlayan tiz bir ses kalır."
+        image: 'full screen blinding white glare with faint silhouette of hands waving in panic'
+        overlay: "KÖR OLDUM!"
+        overlay_pos: center
+      - say: "Oğlum kim attı o flashı, kendi adamını kör ettin!"
+        image: 'medium shot of {SEN} violently turning around in his swivel chair to glare at his classmate {ARKADAS}'
+      - say: "Ardından oyun Half-Life'a döner, harita Crossfire."
+        image: 'in-game wide shot of the concrete courtyard of Crossfire with high catwalks and central bunker'
+        overlay: "CROSSFIRE"
+        overlay_pos: top-left
+      - say: "Birisi sığınağa girip kırmızı butona basar."
+        image: 'close-up in-game view of a gloved hand slamming a big red hazard button on a concrete bunker wall'
+      - say: "Nükleer saldırı sireni kafenin hoparlörlerinden çınlar."
+        image: 'close-up of a wall-mounted red emergency beacon light glowing and spinning dramatically'
+      - say: "On kişi aynı anda daracık sığınak kapısına koşup birbirini levyeyle ezmeye çalışır."
+        image: 'chaotic wide in-game view of multiple player characters scrambling into a narrow bunker doorway together'
+      - say: "Dışarıda nükleer patlama parlar ve bodrum kat kahkahalarla sarsılır."
+        image: 'wide shot of the teenagers in the internet cafe leaning back in chairs, laughing hysterically together'
+
+  - title: "Yarım Ekmek Kaşarlı ve Cam Şişe"
+    scenes:
+      - say: "Oyunun en heyecanlı yerinde karnın kazınmaya başlar."
+        image: 'medium shot of {SEN} holding stomach while waiting for next round to respawn on screen'
+      - say: "Çırağa seslenirsin: Bize iki karışık, bol ketçap!"
+        image: 'medium shot of {SEN} turning head to shout an order towards the kitchen nook in back'
+      - say: "Beş dakika sonra dumanı tüten bir tabak masana gelir."
+        image: 'close-up of {TOSTCU_CIRAK} placing an oval metal plate on the corner of the crowded computer desk'
+      - say: "Tost makinesinde dümdüz edilmiş yarım ekmek kaşarlı."
+        image: 'close-up of a heavily pressed golden crust sandwich oozing melted cheese inside a greasy brown paper napkin'
+        overlay: "KAŞARLI TOST"
+        overlay_pos: bottom-right
+      - say: "Yanında buz gibi cam şişe kola."
+        image: 'close-up of a glass bottle of soda with condensation beads and a red crown cap lying next to it'
+      - say: "Sağ elinle fareyi çevirirsin."
+        image: 'close-up of hand gripping the beige ball mouse firmly on the pad'
+      - say: "Sol elinle tosttan kocaman bir ısırık alırsın."
+        image: 'medium shot of {SEN} balancing sandwich in left hand while furiously clicking mouse with right hand'
+      - say: "Eriyen kaşar klavyenin boşluk tuşuna damlar."
+        image: 'extreme close-up of a droplet of hot melted cheese landing right on the beige spacebar key'
+      - say: "Peçeteyle alelacele silip ateşe devam edersin."
+        image: 'close-up of {SEN} wiping the key with a crumpled paper napkin without taking eyes off the monitor'
+      - say: "O tostun tadı bugün dünyanın en lüks restoranında bile yoktur."
+        image: 'medium shot of {SEN} chewing happily, cheeks full, eyes locked on the glowing game screen'
+
+  - title: "Dijital Flörtün İlkel Çağı: mIRC ve ICQ"
+    scenes:
+      - say: "Oyun biter ama masadan hemen kalkmazsın."
+        image: 'medium shot of {SEN} leaning back in chair, minimizing the game window to reveal the desktop'
+      - say: "Sol üstteki mIRC ikonuna çift tıklarsın."
+        image: 'close-up of CRT screen showing cursor clicking on the green mIRC icon with a colourful logo'
+        overlay: "MIRC"
+        overlay_pos: top-left
+      - say: "Siyah zemin üzerine yeşil ve sarı yazılar akmaya başlar."
+        image: 'close-up of mIRC chat client terminal screen connecting with lines of raw server status text scrolling'
+      - say: "Sunucuya bağlanırsın: irc.dal.net."
+        image: 'close-up of mIRC server connection status bar showing address "irc.dal.net"'
+      - say: "Komutu yazarsın: bölü join kare sohbet."
+        image: 'close-up of chat input line typing the command "/join #sohbet" in glowing white letters'
+      - say: "Ya da dönemin en meşhur kanalı: kare zurna."
+        image: 'close-up of the channel list window showing "#zurna" with hundreds of active usernames'
+        overlay: "#ZURNA"
+        overlay_pos: top-right
+      - say: "Özel mesaj penceresi açılır ve o meşhur kalıp belirir:"
+        image: 'close-up of a private chat dialogue box popping up with the text "slm nbr asl pls?"'
+        overlay: "ASL PLS?"
+        overlay_pos: center
+      - say: "Slm, asl pls?"
+        reuse: s09_07
+        move: in
+      - say: "Yaş, cinsiyet ve şehir sorma sanatı."
+        image: 'medium shot of {SEN} smirking as he types a quick witty response on the keyboard'
+      - say: "Karşıdaki kim, yan masadaki arkadaşın mı asla bilemezsin."
+        image: 'two-shot showing {SEN} typing seriously while two desks away another teenager giggles watching his own screen'
+      - say: "Tam o sırada hoparlörden tiz bir ses yankılanır: Uh-oh!"
+        image: 'close-up of CRT desktop showing a green flower icon of ICQ popping up with message alert'
+        overlay: "UH-OH!"
+        overlay_pos: top-right
+      - say: "ICQ mesajı gelmiştir."
+        image: 'close-up of the retro ICQ chat window with user profile showing a nine-digit number'
+      - say: "Dokuz haneli ICQ numaranı kendi cep telefonu numaran gibi ezbere bilirsin."
+        image: 'medium shot of {SEN} smiling proudly, feeling like a high-tech communication genius'
+
+  - title: "Yan Not: Disketle Ödev Kurtarma"
+    scenes:
+      - say: "Burada küçük bir parantez açalım."
+        image: 'medium shot of {SEN} opening his school backpack to search inside, book covers visible'
+        overlay: "YAN NOT"
+        overlay_pos: top-left
+      - say: "Bir nokta kırk dört megabaytlık hayat ayrı bir video konusu."
+        image: 'close-up of a black 3.5-inch floppy disk lying on top of a school notebook, metal slider gleaming'
+        overlay: "1.44 MB"
+        overlay_pos: bottom-right
+      - say: "Yarın teslim edilecek tarih ödevi internetten bulunur."
+        image: 'point of view of a vintage web browser searching a history topic with blocky text'
+      - say: "Ve titizlikle küçük bir diskete kaydedilir."
+        image: 'close-up of hands inserting the floppy disk into the narrow drive slot of the computer tower with a click'
+      - say: "Ama disketin içindeki manyetik bant öylesine narindir ki yolda cebinde bozulabilir."
+        image: 'macro shot of the open metal shutter of the floppy disk showing the delicate dark magnetic film inside'
+      - say: "Çıktı için sayfa başı elli bin lira ödersin."
+        image: 'close-up of an old dot-matrix or ink printer spitting out a warm printed page of homework text'
+      - say: "Nokta vuruşlu yazıcının cırcır sesi bütün odayı doldurur."
+        image: 'medium shot of the noisy grey printer vibrating on a wooden side table, paper feeding through tractor holes'
+      - say: "Ödev hazır, parantezi kapatıp oyuna dönelim."
+        image: 'medium shot of {SEN} folding the warm printed paper into his notebook with a satisfied grin'
+
+  - title: "Mp3 İndirme İşkencesi"
+    scenes:
+      - say: "O yıllarda bir şarkıya ulaşmak sabır işidir."
+        image: 'medium shot of {SEN} opening an internet search engine portal like Yahoo or AltaVista on screen'
+      - say: "Napster ya da Kazaa programını açarsın."
+        image: 'close-up of the vintage Kazaa peer-to-peer file sharing interface with search results for MP3 files'
+        overlay: "KAZAA"
+        overlay_pos: top-left
+      - say: "Tarkan'dan bir şarkı aratırsın: Kuzu Kuzu."
+        image: 'close-up of search bar displaying "Tarkan - Kuzu Kuzu.mp3 (3.6 MB)" with four download sources'
+      - say: "Dosya boyutu sadece üç buçuk megabayttır."
+        image: 'close-up of file details showing "Size: 3,680 KB, Bitrate: 128 kbps"'
+        overlay: "3.5 MB"
+        overlay_pos: bottom-left
+      - say: "İndir butonuna basarsın."
+        image: 'close-up of mouse pointer clicking on a blue "Download" button on screen'
+      - say: "Tahmini süre: kırk beş dakika."
+        image: 'close-up of download status displaying "Speed: 1.4 KB/sec - Remaining: 44 min 12 sec"'
+        overlay: "45 DAKİKA"
+        overlay_pos: center
+      - say: "Koca kafede herkes tek bir internet hattını paylaşıyordur."
+        image: 'wide shot of twenty CRT computers in the cafe, all connected to a single humming rack router on the wall'
+      - say: "Yirmi bilgisayar aynı ince kabloya asılır."
+        reuse: s11_07
+        move: in
+      - say: "Yüzde doksan dokuza geldiğinde bağlantı kopar."
+        image: 'dramatic close-up of download bar stuck at 99% suddenly turning red with "Download Error"'
+        overlay: "%99 HATA"
+        overlay_pos: top-right
+      - say: "Ekrana bakıp derin bir nefes alırsın."
+        image: 'medium shot of {SEN} dropping forehead into his hands in quiet despair, monitor reflecting on hoodie'
+      - say: "Çünkü iki bin bir yılında teknoloji sana sabretmeyi öğretir."
+        image: 'close-up of {SEN} looking back up at the screen with stubborn patience'
+
+  - title: "Polis Baskını ve Yaş Sınırı"
+    scenes:
+      - say: "Saat öğleden sonra üçü geçmiştir."
+        image: 'close-up of the digital cafe clock displaying 15:15 in red glowing segment numbers'
+      - say: "Kafede herkes kendi dünyasına dalmışken sokak kapısı sertçe açılır."
+        image: 'wide shot of the basement entrance door flying open, blinding outdoor sunlight pouring into the smoky darkness'
+      - say: "Merdivenlerden ağır postalların sesi duyulur."
+        image: 'low angle shot of dark polished police boots stepping down the concrete basement stairs'
+      - say: "İçeriye iki polis memuru girer."
+        image: 'medium shot of {POLIS} in uniform stepping into the room with clipboard in hand, looking around strictly'
+        overlay: "DENETİM"
+        overlay_pos: top-left
+      - say: "Hemen arkalarından zabıta amiri adım atar."
+        image: 'medium shot of a municipal inspector in beige uniform standing beside the police officer'
+      - say: "Müzikleri kısın, herkes kimlikleri masanın üstüne koysun!"
+        image: 'medium shot of {POLIS} gesturing sternly with hand while {KAFECI_ABI} scrambles to turn down the amplifier'
+      - say: "İçişleri Bakanlığı sıkı bir genelge yayımlamıştır."
+        image: 'close-up of official printed inspection forms on the police officer''s clipboard'
+        overlay: "GENELGE"
+        overlay_pos: top-right
+      - say: "On iki yaşından küçüklerin internet kafeye girmesi velisiz yasaktır."
+        image: 'infographic style retro text overlay "12 YAŞ ALTI YASAK" on background of dim computer room'
+      - say: "Okul saatinde üniformayla kafede yakalanan öğrencinin vay haline."
+        image: 'medium shot of two smaller junior high school students frantically hiding under the computer desks'
+      - say: "Yan masadaki ortaokullu çocuk hemen masanın altına, kabloların arasına siner."
+        image: 'low angle shot of a scared young boy curling up behind a dusty beige tower case among tangled wires'
+      - say: "Sen rahatsın; on altı yaşındasın ve üzerinde sivil hırka var."
+        image: 'medium shot of {SEN} calmly placing a student ID card on the wooden desk beside the keyboard'
+      - say: "Polis memuru kimliğini inceler, başını sallar ve devam eder."
+        image: 'close-up of police officer glancing at student card and moving down the aisle'
+      - say: "Derin bir oh çekilir, kapı kapanır ve kulaklıklar tekrar takılır."
+        image: 'wide shot of the cafe returning to normal as the door shuts, voices and game sounds roaring back to life'
+
+  - title: "Planı Hatırlıyor musun?"
+    scenes:
+      - say: "Peki sen buraya neden gelmiştin, hatırlıyor musun?"
+        image: 'medium shot of {SEN} pausing, leaning back from keyboard with a sudden look of realization'
+      - say: "Plan çok basitti."
+        image: 'medium shot of {SEN} talking to himself, raising hands in an innocent gesture'
+      - say: "Bir saat ödev araştırıp hemen eve döneceğim."
+        image: 'thought bubble visual of an open history book on a desk at home under a warm lamp'
+        overlay: "PLAN: 1 SAAT"
+        overlay_pos: top-left
+      - say: "Gerçekte ne mi oldu?"
+        image: 'wide shot of the cluttered desk covered in empty soda bottles, crumpled napkins, and half-eaten crusts'
+      - say: "Tam dört saattir aynı sandalyede oturuyorsun."
+        image: 'medium shot of {SEN} with bloodshot eyes and disheveled hair, staring transfixed at the monitor'
+        overlay: "4 SAAT GEÇTİ"
+        overlay_pos: bottom-left
+      - say: "Son kuruşunu da süreyi uzatmak için verdin."
+        image: 'close-up of empty trouser pockets turned inside out, not a single coin left'
+      - say: "Cebinde kalan tek şey, farenin içinden çıkarıp avucunda yuvarladığın o lastik bilye."
+        image: 'close-up of {SEN} rolling the grey rubber mouse ball between thumb and forefinger with an ironic smile'
+      - say: "Dışarıda hava çoktan kararmış."
+        image: 'point of view looking up the basement stairs at the open doorway showing dark evening streetlights'
+      - say: "Sokak lambaları birer birer yanmış bile."
+        reuse: s13_08
+        move: up
+      - say: "Evde annen kim bilir kaçıncı kez pencereye çıkıp sokağa baktı."
+        image: 'medium shot of a worried Turkish mother pulling aside a lace curtain at home, looking out into dark street'
+      - say: "Ve ekranda o kaçınılmaz kırmızı yazı parlar: Süreniz dolmuştur, teşekkür ederiz."
+        image: 'full screen view of the CRT monitor locking with a big red message box "SÜRENİZ BİTMİŞTİR"'
+        overlay: "SÜRE BİTTİ"
+        overlay_pos: center
+      - say: "Ekran kararır; camda kendi yorgun yüzünün yansımasıyla baş başa kalırsın."
+        image: 'close-up of the dark reflective glass of the turned-off monitor showing the faint ghostly reflection of {SEN}'
+
+  - title: "Bugüne Zoom ve Kapanış"
+    scenes:
+      - say: "Şimdi iki bin bir yılından bugüne hızlı bir zoom yapalım."
+        image: 'futuristic cinematic transition effect from a beige CRT monitor to a sleek modern smartphone screen'
+        overlay: "2001 -> BUGÜN"
+        overlay_pos: top-center
+      - say: "Bugün hanelerin yüzde doksan beşinde yüksek hızlı internet var."
+        image: 'wide modern shot of a bright Turkish apartment living room with fiber router blinking fast white lights'
+        overlay: "%95.5 İNTERNET"
+        overlay_pos: top-left
+      - say: "Nüfusun neredeyse yüzde doksanı her an her yerden çevrimiçi."
+        image: 'modern shot of crowded Istanbul metrobus where every single passenger is looking down at a 5G smartphone screen'
+        overlay: "%88.8 KULLANICI"
+        overlay_pos: bottom-left
+      - say: "Cebindeki telefon, o yirmi kasanın toplamından bin kat güçlü."
+        image: 'close-up of a modern slim smartphone held in hand, showing high definition mobile games and apps'
+      - say: "İstediğin şarkı saniyesinde iniyor, istediğin oyun tek tıkla açılıyor."
+        image: 'sleek split screen showing instant music streaming and high-end 4K cloud gaming'
+      - say: "Ama bir şeyler eksik."
+        image: 'medium shot of a lone teenager sitting alone in a modern pristine bedroom playing games in silence with headset'
+      - say: "O gürültülü bodrum katın sıcaklığı yok."
+        reuse: s14_06
+        move: in
+      - say: "Yan masadaki arkadaşına sesini duyurmak için bağırmak yok."
+        image: 'nostalgia flashback overlay of the chaotic, crowded, warm 2001 internet cafe filled with camaraderie'
+      - say: "Ekran kararınca birbirine bakıp gülüşen gözler yok."
+        image: 'close-up of two teenage boys laughing together over a keyboard in the retro cafe glow'
+      - say: "Ve o kaşarlı tostun kokusu hiçbir modern kafede bir daha bulunamadı."
+        image: 'close-up of the golden toasted sandwich on brown paper, steam gently rising into soft retro light'
+      - say: "Hayat hızlandı, ama bodrum katın o samimi gürültüsü maziye karıştı."
+        image: 'wide exterior shot of the quiet alley stairs at night, the old "NET İNTERNET CAFE" sign dark and weathered'
+
+  - title: "Senin İnternet Kafe Hikâyen"
+    scenes:
+      - say: "Sen iki binli yıllarda internet kafeye gider miydin?"
+        image: 'medium portrait of {SEN} smiling warmly at the camera from the top of the basement stairs, backpack on shoulder'
+      - say: "En çok hangi oyunda sabahladın?"
+        image: 'montage of retro game box covers: Counter-Strike, Half-Life, Age of Empires II, FIFA 2001'
+      - say: "İlk mIRC nickin ya da unutamadığın bir kafe anın neydi?"
+        image: 'whimsical close-up of an old paper notebook with handwritten ICQ numbers and gaming cheat codes'
+      - say: "Hikâyeni aşağıdaki yorumlara yaz."
+        image: 'close-up of a computer screen showing the YouTube comment section with an invitation to share stories'
+      - say: "Burnuna o yanık kaşar kokusu geldiyse, kanala abone olmayı unutma."
+        image: 'creative visual of a YouTube red subscribe button framed with a retro CRT monitor border and mouse cursor clicking'
+        overlay: "ABONE OL"
+        overlay_pos: bottom-right
+      - say: "Ve merak etme, bu kanalda süren hiç bitmeyecek."
+        image: 'final warm shot of {SEN} waving goodbye under the warm street lamp, the retro cafe sign glowing softly behind him'
+        overlay: "O YIL SEN"
+        overlay_pos: center
