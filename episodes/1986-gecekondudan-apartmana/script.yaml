@@ -1,0 +1,632 @@
+# O Yıl Sen — Bölüm 5: Gecekondudan Apartmana
+title: "Eğer 80'lerde Gecekondudan Apartmana Taşınsaydın?"
+motif: "İncir — 1968'de avluya dikilen incir fidanı; yıkımda kaybolur, finalde balkondaki saksıda geri gelir. Tekrar eden şaka: 'Bu duvarı ben ördüm.'"
+characters:
+  SEN_GENC: "a 25-year-old Turkish man in 1968, white round head, dot eyes, thin mustache, flat cap, rolled-up white shirt sleeves, worn dark trousers"
+  SEN: "a 41-year-old Turkish factory worker in the 1980s, white round head, dot eyes, thick black mustache, flat cap, grey wool vest over a checked shirt, dark trousers"
+  SEN_YASLI: "a 78-year-old Turkish grandfather in 2026, white round head, dot eyes, white mustache, flat cap, brown cardigan, wooden walking cane"
+  ESIN: "a Turkish housewife in the 1980s, white round head, dot eyes, floral headscarf tied under the chin, long patterned skirt, knitted cardigan"
+  KIZIN: "a 13-year-old Turkish girl in the 1980s, white round head, dot eyes, two braids, black school pinafore with white collar"
+  OGLUN: "a 9-year-old Turkish boy in the 1980s, white round head, dot eyes, short hair, red striped sweater, shorts"
+  MUTEAHHIT: "a 1980s Turkish building contractor, white round head, dot eyes, thick mustache, brown suit with wide lapels, gold wristwatch, rolled blueprint under his arm"
+  MUTEAHHIT_GENC: "a young Turkish real estate developer in 2026, white round head, dot eyes, slim navy suit, no tie, holding a tablet"
+  MUHTAR: "a 1980s Turkish neighborhood headman, white round head, dot eyes, grey mustache, thick glasses, cardigan, holding a rubber stamp"
+youtube:
+  title: "Eğer 80'lerde Gecekondudan Apartmana Taşınsaydın?"
+  description: |-
+    1968'de bir gecede kurduğun ev, 1984'te çıkan imar affıyla bir kâğıda, 1986'da dört kat hakkına, 1989'da üçüncü kattaki bir daireye dönüşüyor. Arada kapına bir müteahhit geliyor, yirmi yıllık ev yirmi dakikada yıkılıyor, iki buçuk yıl kirada bekliyorsun.
+
+    Bu videoda Türkiye'nin gecekondudan apartmana geçtiği yıllara dönüyoruz: 2981 sayılı imar affı, tapu tahsis belgesi, ıslah imar planı, kat karşılığı pazarlığı, yüzde altmışları aşan enflasyon, ilk kalorifer, ilk apartman toplantısı ve bugün kapıyı yeniden çalan kentsel dönüşüm.
+
+    Senin ailende gecekondudan apartmana geçen var mı? Evi müteahhide verdiniz mi, yoksa direndiniz mi? Hikâyeni yorumlara yaz.
+
+    Not: Hikâye kurgusal bir ailenin gözünden anlatılır; videodaki tarih ve rakamlar kaynaklara dayanır. Görseller ve seslendirme yapay zekâ ile üretilmiştir.
+  tags:
+    - "gecekondu"
+    - "imar affı"
+    - "1984 imar affı"
+    - "tapu tahsis belgesi"
+    - "kat karşılığı"
+    - "müteahhit"
+    - "apartman"
+    - "kentsel dönüşüm"
+    - "80ler"
+    - "nostalji"
+    - "türkiye tarihi"
+    - "yakın tarih"
+    - "eğer olsaydın"
+    - "o yıl sen"
+  hashtags:
+    - "#gecekondu"
+    - "#80ler"
+    - "#imaraffı"
+    - "#kentseldönüşüm"
+    - "#nostalji"
+    - "#YakınTarih"
+  pinned_comment: "Senin ailen evi müteahhide verdi mi? Kaç kat karşılığında? En iyi hikâyeyi sabitleyelim."
+thumbnail:
+  image: 'a sad Turkish man {SEN} on the right side holding a shiny new brass key and looking back over his shoulder; behind him a yellow excavator demolishing a small one-storey shanty house and a fig tree about to fall; far background a five-storey concrete apartment building with scaffolding; clear pale sky on the left'
+  text: "1986\nEVİ VERDİK"
+sources:
+  - "Gecekondu sayısı 1950'de yaklaşık 50 bin, 1980'lerde 1,15–1,25 milyon — Çakır, SDÜ Fen-Edebiyat Sosyal Bilimler Dergisi, 2011: https://dergipark.org.tr/tr/download/article-file/117899 ; Çoban ve Sert, İdil 7(44), 2018: https://idildergisi.com/makale/pdf/1523032601.pdf"
+  - "1980'de İstanbul gecekondularının yalnızca ~%10'unun tam tapusu olması (Yönder 1998) — Zayim, MPhil tezi s.28: https://users.ssc.wisc.edu/~peoliver/SOC924/Articles/AYCA_ZAYIM_MPHIL%20THESIS.pdf"
+  - "Kent nüfusunun 1985 sayımında köy nüfusunu geçmesi — Ankara Üniversitesi açık ders GGY215: https://acikders.ankara.edu.tr/mod/resource/view.php?id=111531 ; Karar, 12.04.2024: https://www.karar.com/gorusler/kirsal-nufus-yuzde-6mi-yoksa-yuzde-17mi-ya-da-yuzde-25mi-1854467"
+  - "İstanbul nüfusu 1980'de 4,74 milyon, 1990'da 7,31 milyon — TÜİK sayımları (Wikipedia): https://en.wikipedia.org/wiki/Istanbul_region_(statistical)"
+  - "775 sayılı Gecekondu Kanunu, 20.07.1966 — https://alomaliye.com/1966/07/30/775-sayili-kanun-gecekondu-kanunu/"
+  - "2981 sayılı Kanun 24.02.1984'te kabul edildi, tapu tahsis belgesini ilk kez tanımladı, en fazla 400 m² — Lexpera: https://www.lexpera.com.tr/mevzuat/kanunlar/imar-ve-gecekondu-mevzuatina-aykiri-yapilara-uygulanacak-bazi-islemler-ve-6785-sayili-imar-kanununun ; kanun metni (JMO): https://www.jmo.org.tr/mevzuat/mevzuat_detay_pdf.php?kod=206 ; AYM 1999/16"
+  - "1985'te İstanbul'da tahsis belgesi için ~150 bin başvuru — Köktürk, İMO İstanbul Bülten 19, 1995: https://www.erolkokturk.net/FileUpload/ks85423/File/1995-01_02_imar_affi_bir_kent_sucudur.pdf"
+  - "3290 sayılı Kanun (1986) ve ıslah imar planlarında dört kata kadar yapılaşma; Keçiören'de yoğunluğun 87'den 324 kişi/ha'ya çıkması — Tuçaltan, ODTÜ YL tezi, 2008: https://open.metu.edu.tr/bitstream/handle/11511/17736/index.pdf"
+  - "Islah planlarıyla gecekondu alanlarının kat karşılığı yeniden yapılaşması — ODTÜ tezi (Mamak): https://etd.lib.metu.edu.tr/upload/12613277/index.pdf"
+  - "1987'de yapı ruhsatı sayısının 497 bini aşması; Toplu Konut Fonu gelirinin %28,66'sının tütün ve alkolden gelmesi — Türel, ODTÜ MFD 9(1), 1989: https://open.metu.edu.tr/bitstream/handle/11511/51116/137-154.pdf"
+  - "TÜFE enflasyonu 1984'te %48,4, 1988'de %68,8 — OECD/FRED: https://fred.stlouisfed.org/data/CPALTT01TRA659N"
+  - "634 sayılı Kat Mülkiyeti Kanunu (1965): sekiz ve üzeri bağımsız bölümde yönetici zorunluluğu, kapıcı ve kaloriferci giderlerinin eşit paylaşımı — https://www.qsl.net/ta2iz/KANUN/KATMULK.htm"
+  - "Tapu tahsis belgesi sahiplerinin 2015-2016'da hâlâ tapu beklemesi; 2981'in süresinin 2018'e uzatılması — TBMM Genel Kurulu konuşmaları: https://tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay?eid=38858 ; https://tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay?eid=49657"
+  - "6306 sayılı Kanun (2012) ve 2012'den beri 2,3 milyonu aşkın bağımsız bölümün dönüşümünün tamamlanması — Bigpara/AA, 11.08.2026: https://bigpara.hurriyet.com.tr/haberler/konut-haberleri/kentsel-donusumde-dev-bilanco-2-7-milyon-bagimsiz-bolum-yenilendi_ID102228259/"
+  - "İstanbul'daki binaların ~%70'inin 2000 öncesinde yapılması — Sözcü, 13.02.2023: https://www.sozcu.com.tr/istanbulda-kac-bina-deprem-riski-altinda-wp7590201"
+sections:
+  - title: "1989: Üçüncü Kattaki Kapı"
+    scenes:
+      - say: "Yıl bin dokuz yüz seksen dokuz, bir sonbahar sabahı."
+        image: 'wide shot of a freshly painted five-storey concrete apartment building on a hillside neighborhood in 1989 Turkey, autumn morning light, a few shanty houses still visible around it'
+        overlay: "1989"
+        overlay_pos: top-left
+      - say: "Elinde yepyeni bir anahtar var."
+        image: 'close-up of the hand of {SEN} holding a shiny new brass key, warm light'
+      - say: "Kapının üstünde senin soyadın yazıyor."
+        image: 'close-up of a new wooden apartment door with a small blank brass nameplate and a peephole'
+      - say: "Üçüncü kat, sağdaki daire."
+        image: 'medium shot of {SEN} on a third floor stairwell landing, cardboard boxes and a rolled carpet around him'
+        overlay: "3. KAT"
+        overlay_pos: top-right
+      - say: "Eşin arkanda duruyor ve ağlıyor."
+        image: 'medium shot of {ESIN} standing on the stairs holding a small clay flower pot, tears on her cheeks'
+      - say: "Sevinçten mi ağlıyor, emin değilsin."
+        image: 'close-up of {SEN} glancing back over his shoulder with an uncertain expression'
+      - say: "Çünkü bu kapının açıldığı yer,"
+        reuse: s01_03
+        move: in
+      - say: "Yirmi bir yıl önce bir gecede yaptığın evin tam üstü."
+        image: 'dreamlike shot of a ghostly transparent outline of a small one-storey shanty house with a fig tree, overlaid inside the ground floor of a modern apartment building'
+      - say: "Tebrikler, artık bir apartman dairen var."
+        image: 'medium shot of {SEN} opening the door to an empty flat with bright white walls and sunlight on the floor'
+      - say: "Ama buraya gelmek tam beş yıl sürdü."
+        image: 'close-up of wall calendar pages flying away in the wind, retro 1980s style, no readable text'
+        overlay: "5 YIL"
+        overlay_pos: center
+      - say: "Bu yolda bir af çıkacak,"
+        image: 'medium shot of men in a 1980s Turkish coffeehouse cheering around an old wooden radio'
+      - say: "Kapına takım elbiseli biri gelecek,"
+        image: 'medium shot of {MUTEAHHIT} standing at a wooden garden gate of a shanty house, smiling'
+      - say: "Ve bir kepçe, yirmi yıllık hayatını yirmi dakikada yıkacak."
+        image: 'wide shot of a yellow excavator tearing down a small shanty house in a cloud of dust'
+      - say: "Hadi, önce o geceye dönelim."
+        image: 'close-up of the key turning in the lock, warm golden light, nostalgic mood'
+
+  - title: "Önce Biraz Arka Plan"
+    scenes:
+      - say: "Önce biraz arka plan."
+        image: 'wide aerial shot of a Turkish city in 1984, hills covered with small shanty houses with tiled roofs, a few apartment blocks in the center, hazy sky'
+        overlay: "TÜRKİYE 1984"
+        overlay_pos: top-left
+      - say: "Ülke hızla şehre taşınıyor."
+        image: 'medium shot of a crowded 1980s Turkish intercity bus terminal, families carrying bundles and suitcases tied with rope'
+      - say: "Bin dokuz yüz elli yılında yaklaşık elli bin gecekondu vardı."
+        image: 'wide sepia-toned shot of a bare hillside in 1950 with only a few scattered small shanty houses'
+        overlay: "1950: 50 BİN"
+        overlay_pos: top-right
+      - say: "Otuz yıl sonra bu sayı bir milyonu geçiyor."
+        image: 'wide shot of the same hillside in 1980 densely covered with hundreds of small shanty houses, washing lines, chimneys smoking'
+        overlay: "1980: 1 MİLYON+"
+        overlay_pos: top-right
+      - say: "İstanbul'un nüfusu on yılda beş milyondan yedi milyonu aşıyor."
+        image: 'wide shot of a busy Istanbul ferry pier in the 1980s, crowds, simit sellers, old ferries'
+        overlay: "4,7 → 7,3 MİLYON"
+        overlay_pos: bottom-left
+      - say: "Seksenlerin ortasında ilk kez şehirde yaşayanlar, köyde yaşayanları geçiyor."
+        image: 'split composition: left half a quiet Anatolian village with a few houses, right half a crowded city street, balanced scale icon feeling'
+        overlay: "ŞEHİR > KÖY"
+        overlay_pos: center
+      - say: "Bu insanların çoğu evini kendi eliyle yapıyor."
+        image: 'medium shot of men building brick walls of a small house by lantern light at night'
+      - say: "Ama arsa çoğu zaman onların değil."
+        image: 'close-up of a wooden survey stake with a red flag on an empty hillside plot'
+      - say: "Hazinenin, belediyenin ya da bir vakfın toprağı."
+        reuse: s02_08
+        move: out
+      - say: "Bin dokuz yüz seksende İstanbul'daki gecekonduların yalnızca yüzde onunun tam tapusu var."
+        image: 'close-up of an open wooden drawer with only one official deed paper among many empty envelopes'
+        overlay: "%10 TAPULU"
+        overlay_pos: top-right
+      - say: "Gerisi bir gün yıkılır mı diye korkarak yaşıyor."
+        image: 'medium shot of a worried woman looking out of a small shanty window at a white official car on a muddy road'
+      - say: "Şimdi bir kelimeyi aklında tut."
+        image: 'extreme close-up of a broad green fig leaf with sunlight shining through it'
+        overlay: "İNCİR"
+        overlay_pos: center
+      - say: "İncir."
+        reuse: s02_12
+        move: in
+      - say: "Bu hikâye bir incir ağacıyla başlıyor."
+        image: 'medium shot of a young fig tree in a small courtyard of a shanty house, morning light'
+
+  - title: "1968: Bir Gecede Yükselen Ev"
+    scenes:
+      - say: "Bin dokuz yüz altmış sekiz, Ankara'nın eteklerinde bir yamaç."
+        image: 'wide night shot of a dark hillside on the edge of Ankara in 1968, a few lanterns glowing, city lights far below'
+        overlay: "1968"
+        overlay_pos: top-left
+      - say: "Yirmi beş yaşındasın, köyden geleli iki yıl oldu."
+        image: 'medium shot of {SEN_GENC} standing on the hillside holding a cloth sack, looking at the city lights'
+        overlay: "25 YAŞINDA"
+        overlay_pos: top-right
+      - say: "Hemşerilerin toplanmış, ellerinde fener."
+        image: 'medium shot of a group of young men in flat caps holding oil lanterns, gathered around a pile of bricks at night'
+      - say: "Gece yarısı başlıyorsunuz."
+        image: 'close-up of hands laying the first row of grey concrete briquettes on a stone foundation, lantern light'
+      - say: "Mahallede bir inanç var:"
+        reuse: s03_03
+        move: in
+      - say: "Sabah çatı kapanmışsa, kimse dokunamaz."
+        image: 'close-up of {SEN_GENC} looking up at the night sky anxiously, the first light of dawn on the horizon'
+      - say: "Briketler elden ele geçiyor."
+        image: 'medium shot of a human chain of men passing briquettes hand to hand in the dark'
+      - say: "Eşin çay demliyor, termosları taşıyor."
+        image: 'medium shot of a young {ESIN} carrying a tray of tulip-shaped tea glasses and a thermos between the workers'
+      - say: "Şafak sökerken son kiremit yerine oturuyor."
+        image: 'close-up of a hand placing the last red roof tile at dawn, pink sky'
+      - say: "İki oda, bir mutfak, bir avlu."
+        image: 'wide shot of a tiny freshly built one-storey shanty house with a red tile roof and a small dirt courtyard at sunrise'
+      - say: "Avlunun köşesine bir incir fidanı dikiyorsun."
+        image: 'medium shot of {SEN_GENC} kneeling and planting a small fig sapling in the corner of the courtyard'
+      - say: "Bu duvarı ben ördüm, diyorsun gururla."
+        image: 'medium shot of {SEN_GENC} proudly patting the rough plastered wall of the house with his palm'
+      - say: "Bu cümleyi aklında tut. Çok tekrar edeceksin."
+        image: 'close-up of young {ESIN} rolling her eyes with a small smile, holding a tea glass'
+      - say: "Oysa iki yıl önce bir gecekondu kanunu çıkmıştı."
+        image: 'wide shot of the Turkish Grand National Assembly building in Ankara in the 1960s, clear day'
+        overlay: "1966: 775 SAYILI"
+        overlay_pos: top-left
+      - say: "Amacı yenilerini önlemekti. Yamaçta her gece yeni bir çatı yükseliyor."
+        reuse: s03_01
+        move: out
+
+  - title: "Şubat 1984: Radyodaki Af"
+    scenes:
+      - say: "Aradan on altı yıl geçiyor."
+        image: 'wide shot of the same shanty house in 1984, now with a large fig tree towering over the roof, laundry lines, a small vegetable patch'
+        overlay: "1984"
+        overlay_pos: top-left
+      - say: "İncir ağacı artık damı aşmış."
+        image: 'low angle shot of a big fig tree with wide branches above a tiled roof, ripe figs, sunlight'
+      - say: "İki çocuğun var, avluda tavuklar dolaşıyor."
+        image: 'medium shot of {KIZIN} and {OGLUN} chasing chickens around the dusty courtyard, laughing'
+      - say: "Ama her resmî araba geçtiğinde eşinin yüzü değişiyor."
+        image: 'medium shot of {ESIN} hanging laundry, freezing as a white official car passes on the dirt road'
+      - say: "Şubat ayı. Kahvede radyo açık."
+        image: 'medium shot of a 1980s Turkish coffeehouse interior, men in flat caps around a big wooden radio, tea glasses on tables'
+        overlay: "ŞUBAT 1984"
+        overlay_pos: top-right
+      - say: "Meclis yeni bir kanun kabul etmiş."
+        image: 'close-up of an old wooden radio with a glowing dial in a smoky coffeehouse'
+      - say: "Halk arasındaki adıyla imar affı."
+        reuse: s04_06
+        move: in
+        overlay: "İMAR AFFI"
+        overlay_pos: center
+      - say: "Çaylar soğuyor, kimse konuşmuyor."
+        image: 'close-up of untouched tea glasses on a table, men frozen and listening in the background'
+      - say: "Sonra biri ayağa fırlıyor: Tapu veriyorlar!"
+        image: 'medium shot of an old man jumping up from his chair in the coffeehouse with arms raised in joy'
+      - say: "Eve koşuyorsun, çamurlu yokuşu bir solukta çıkıyorsun."
+        image: 'medium shot of {SEN} running up a muddy hillside path between shanty houses, cap in hand'
+      - say: "Eşin elindeki hamuru bırakıyor."
+        image: 'medium shot of {ESIN} at a low wooden table kneading dough, looking up in surprise, flour on her hands'
+      - say: "Çocuklar neden sevindiğinizi anlamadan zıplıyor."
+        image: 'medium shot of {KIZIN} and {OGLUN} jumping happily in the small kitchen'
+      - say: "Ama kahvedeki adam yanılıyor."
+        reuse: s04_09
+        move: right
+      - say: "Verilen şey tam olarak tapu değil. Henüz kimse bilmiyor."
+        image: 'close-up of {SEN} smiling at the doorway, unaware, warm evening light'
+
+  - title: "Belge Peşinde"
+    scenes:
+      - say: "Sonraki aylar kuyrukta geçiyor."
+        image: 'wide shot of a long queue of men in coats holding folders outside a 1980s municipal building'
+      - say: "Önce muhtarlık."
+        image: 'medium shot of {MUHTAR} at a small wooden desk stamping a document with a rubber stamp'
+      - say: "Sonra teknik büro, sonra belediye."
+        image: 'medium shot of {SEN} walking through a corridor full of doors and waiting people holding folders'
+      - say: "Evin metreyle ölçülüyor."
+        image: 'medium shot of a surveyor holding a measuring tape along the wall of the shanty house, {SEN} watching'
+      - say: "Tavuklar da ölçüme katılmak istiyor."
+        image: 'close-up of a curious chicken pecking at the yellow measuring tape on the ground'
+      - say: "Kanun en fazla dört yüz metrekareye hak tanıyor."
+        image: 'close-up of a hand-drawn site plan on graph paper with a pencil and a ruler'
+        overlay: "EN FAZLA 400 M²"
+        overlay_pos: top-right
+      - say: "Senin avlun yüz yirmi metrekare. Sorun yok."
+        reuse: s05_06
+        move: in
+      - say: "Harç parası için eşinin bileziklerinden biri bozduruluyor."
+        image: 'close-up of a jeweler weighing a gold bangle on small brass scales, {ESIN} watching sadly'
+      - say: "Bin dokuz yüz seksen beşte sadece İstanbul'da yaklaşık yüz elli bin kişi bu belge için başvuruyor."
+        image: 'wide high angle shot of a huge crowd of applicants with folders filling the courtyard of a municipal building'
+        overlay: "150 BİN BAŞVURU"
+        overlay_pos: top-left
+      - say: "Herkes aynı dosyayı, aynı fotokopiyi taşıyor."
+        image: 'close-up of many hands holding identical yellow cardboard folders'
+      - say: "Ve bir gün eline o kâğıt geçiyor."
+        image: 'close-up of a clerk handing an official document across a counter to the hand of {SEN}'
+      - say: "Tapu tahsis belgesi."
+        image: 'close-up of an official paper with a round blue stamp and signatures on it'
+        overlay: "TAPU TAHSİS"
+        overlay_pos: top-left
+      - say: "Bu belge ülkede ilk kez bu kanunla doğuyor."
+        reuse: s05_12
+        move: out
+      - say: "Çerçeveletmek istiyorsun."
+        image: 'medium shot of {SEN} proudly holding the document up against the wall where a frame would go'
+      - say: "Eşin onu çekmeceye kaldırıyor."
+        image: 'close-up of the hands of {ESIN} carefully placing the document into a wooden drawer and closing it'
+
+  - title: "Kâğıt Tapu Değil"
+    scenes:
+      - say: "Peki bu kâğıt tam olarak ne?"
+        image: 'close-up of the closed wooden drawer, a ray of light on its brass handle'
+      - say: "Bir söz. İleride tapun verilecek, diyor."
+        image: 'medium shot of {SEN} reading the document with squinting eyes at the kitchen table'
+        overlay: "BİR SÖZ"
+        overlay_pos: top-right
+      - say: "Tapu kütüğüne bir not olarak düşülüyor."
+        image: 'close-up of a clerk writing a line in a huge old leather-bound registry book with a fountain pen'
+      - say: "Gerçek tapu için mahallene bir plan gelmesi gerekiyor."
+        image: 'wide shot of the shanty neighborhood from above, crooked dirt roads, no order'
+      - say: "Adı ıslah imar planı."
+        image: 'close-up of a large rolled city plan being unrolled on a desk, colored zones and streets'
+        overlay: "ISLAH PLANI"
+        overlay_pos: top-left
+      - say: "Plan gelene kadar beklersin."
+        image: 'medium shot of {SEN} sitting on the doorstep under the fig tree, looking down the road'
+      - say: "Bazı mahallelere plan iki yılda geliyor."
+        reuse: s06_05
+        move: in
+      - say: "Bazılarına hiç gelmiyor."
+        image: 'wide shot of a foggy hillside of shanty houses at dusk, quiet and forgotten'
+      - say: "Bunu bir kenara yaz. Döneceğiz."
+        reuse: s06_01
+        move: in
+
+  - title: "1986: Dört Kat Hakkı"
+    scenes:
+      - say: "Bin dokuz yüz seksen altı."
+        image: 'wide shot of the shanty neighborhood in spring 1986, fig tree blossoming, municipal workers with a theodolite on the road'
+        overlay: "1986"
+        overlay_pos: top-left
+      - say: "Af kanunu değişiyor, mahallene plan geliyor."
+        image: 'medium shot of {MUHTAR} pinning a large printed neighborhood plan to the wall of the coffeehouse, men crowding around'
+      - say: "Belge tapuya dönüşüyor. Şanslılardansın."
+        image: 'close-up of {SEN} holding a green deed booklet with both hands, eyes shining'
+      - say: "Ama planda bir ayrıntı var."
+        reuse: s07_02
+        move: in
+      - say: "Senin arsana dört kata kadar bina yapılabilir."
+        image: 'close-up of a plan detail showing a small plot with a pencil sketch of a four-storey block'
+        overlay: "4 KAT HAKKI"
+        overlay_pos: top-right
+      - say: "Dün tek katlı bir evin vardı."
+        image: 'medium shot of the small one-storey shanty house with the fig tree, ordinary afternoon'
+      - say: "Bugün dört katlı bir hayalin var."
+        image: 'dreamlike shot of a translucent four-storey apartment outline rising above the small shanty house, {SEN} staring up'
+      - say: "Mahallede herkes aynı hesabı yapıyor."
+        image: 'medium shot of men in the coffeehouse doing calculations with pencils on newspaper margins'
+      - say: "Ama kimsenin dört kat yapacak parası yok."
+        image: 'close-up of {SEN} turning out an empty worn leather wallet'
+      - say: "Para kimdeyse, kapı ona açılacak."
+        image: 'close-up of the wooden garden gate of the shanty house slowly creaking open'
+
+  - title: "Müteahhit Kapıda"
+    scenes:
+      - say: "Bir pazar sabahı kapı çalıyor."
+        reuse: s07_10
+        move: in
+      - say: "Takım elbiseli, bıyıklı bir adam."
+        image: 'medium shot of {MUTEAHHIT} standing at the gate, smiling broadly, gold watch shining'
+      - say: "Ayakkabısı çamura batmasın diye parmak uçlarında yürüyor."
+        image: 'close-up of shiny brown leather shoes tiptoeing between mud puddles'
+      - say: "Elinde rulo halinde bir çizim var."
+        image: 'close-up of {MUTEAHHIT} unrolling a blueprint of an apartment building on the courtyard table'
+      - say: "Burası dört kat olur abi, diyor."
+        image: 'medium shot of {MUTEAHHIT} pointing up at the sky above the little house, {SEN} following his finger'
+      - say: "Sen arsayı ver, ben yapayım."
+        image: 'medium shot of {MUTEAHHIT} and {SEN} sitting under the fig tree with tea glasses and the blueprint between them'
+      - say: "Sana iki daire düşer."
+        image: 'close-up of a finger tapping two apartment units on the blueprint'
+        overlay: "2 DAİRE"
+        overlay_pos: top-right
+      - say: "Buna kat karşılığı deniyor."
+        reuse: s08_06
+        move: in
+        overlay: "KAT KARŞILIĞI"
+        overlay_pos: top-left
+      - say: "Senin paran yok, onun arsası yok."
+        image: 'split composition: on the left an empty wallet, on the right an empty plot of land, simple and clear'
+      - say: "Seksenlerde gecekondu mahalleleri büyük ölçüde bu pazarlıkla yükseliyor."
+        image: 'wide shot of a 1980s neighborhood where half-built concrete apartment frames rise between small shanty houses'
+      - say: "Bin dokuz yüz seksen yedide verilen yapı ruhsatı dört yüz doksan yedi bini aşıyor."
+        image: 'wide shot of a busy 1980s construction site, scaffolding, cement mixers, workers in caps'
+        overlay: "497 BİN RUHSAT"
+        overlay_pos: top-left
+      - say: "Adam çayını bitirip kalkıyor. Düşünün, diyor."
+        image: 'medium shot of {MUTEAHHIT} standing up and buttoning his jacket, waving goodbye at the gate'
+      - say: "Kapı kapanıyor. Ev ilk kez bu kadar küçük görünüyor."
+        image: 'wide shot of the tiny shanty house looking small and fragile next to a tall half-built apartment block'
+
+  - title: "Sofradaki Üç Korku"
+    scenes:
+      - say: "O akşam sofrada kimse yemek yemiyor."
+        image: 'medium shot of the family sitting on cushions around a low round wooden table, full plates untouched, oil lamp light'
+      - say: "Bu kararda üç korkun var."
+        image: 'close-up of {SEN} rubbing his forehead at the dinner table'
+        overlay: "ÜÇ KORKU"
+        overlay_pos: top-left
+      - say: "Bir: Müteahhit işi yarım bırakırsa?"
+        image: 'wide shot of an abandoned half-built concrete frame with rusty rebar sticking out, grey sky'
+        overlay: "1. YARIM BİNA"
+        overlay_pos: top-right
+      - say: "İki: İnşaat bitene kadar nerede oturacaksınız?"
+        image: 'medium shot of a family with suitcases standing on an unfamiliar street, lost'
+        overlay: "2. KİRA"
+        overlay_pos: top-right
+      - say: "Üç: Bu duvarı ben ördüm."
+        image: 'close-up of the palm of {SEN} resting on the old rough wall, nostalgic'
+        overlay: "3. DUVAR"
+        overlay_pos: top-right
+      - say: "Eşin itiraz ediyor: Çocuklar daha kaç kış sobayla üşüyecek?"
+        image: 'medium shot of {ESIN} pointing at an old iron wood stove with a crooked stove pipe'
+      - say: "Kızın soruyor: Yeni evde banyo içeride mi olacak?"
+        image: 'close-up of {KIZIN} asking hopefully, school notebook on her lap'
+      - say: "Oğlun soruyor: Tavuklar ne olacak?"
+        image: 'close-up of {OGLUN} holding a chicken in his arms, worried'
+      - say: "Kimse cevap vermiyor."
+        reuse: s09_01
+        move: in
+      - say: "Sokağın başındaki komşu çoktan imzalamış."
+        image: 'medium shot of a neighbor shaking hands with {MUTEAHHIT} at a gate down the street'
+      - say: "Ertesi hafta bir komşu daha imzalıyor."
+        reuse: s09_10
+        move: left
+      - say: "Bir ay sonra sen de imzalıyorsun."
+        image: 'close-up of the hand of {SEN} signing a contract with a fountain pen on a notary desk'
+        overlay: "İMZA"
+        overlay_pos: top-left
+      - say: "Elin titriyor ama imzan dimdik."
+        reuse: s09_12
+        move: in
+
+  - title: "Yıkım Günü"
+    scenes:
+      - say: "Taşınma günü bir kamyonet geliyor."
+        image: 'wide shot of a small 1980s pickup truck parked by the shanty house, neighbors helping carry furniture'
+      - say: "Yirmi yılın eşyası bir kamyonetin kasasına sığıyor."
+        image: 'close-up of a truck bed stacked with a rolled carpet, a sewing machine, quilts, a copper pot and a radio'
+      - say: "Tavuklar komşuya emanet."
+        image: 'medium shot of {OGLUN} sadly handing a chicken over a fence to a neighbor woman'
+      - say: "Sonra kepçe geliyor."
+        image: 'wide shot of a yellow excavator rolling up the dirt road toward the little house'
+      - say: "Önce çatı gidiyor."
+        image: 'medium shot of the excavator bucket crushing the red tile roof, tiles falling'
+      - say: "Sonra senin ördüğün duvar."
+        image: 'close-up of the plastered wall cracking and collapsing under the excavator bucket, dust'
+      - say: "Yirmi yıllık ev yirmi dakikada yere iniyor."
+        image: 'wide shot of a pile of rubble and dust where the house stood, the excavator standing still'
+        overlay: "20 DAKİKA"
+        overlay_pos: top-left
+      - say: "Eşin arkasını dönüyor."
+        image: 'medium shot of {ESIN} turning her back to the demolition, covering her mouth with her headscarf'
+      - say: "Sen izliyorsun."
+        image: 'close-up of {SEN} watching silently, dust in the air, jaw clenched'
+      - say: "Oğlun incir ağacına bakıyor."
+        image: 'medium shot of {OGLUN} looking up at the big fig tree standing alone next to the rubble'
+      - say: "Kimse ona ne olacağını söylememişti."
+        reuse: s10_10
+        move: in
+      - say: "Kepçe ağacın önünde bir an duruyor."
+        image: 'medium shot of the excavator bucket hovering in front of the fig tree, tense pause'
+      - say: "Sonra devam ediyor."
+        image: 'close-up of a single fig leaf falling slowly onto the dusty ground'
+
+  - title: "Kirada Bekleyiş"
+    scenes:
+      - say: "On sekiz aya teslim, denmişti."
+        image: 'close-up of a contract page with a pen circling a date, no readable text'
+        overlay: "18 AY"
+        overlay_pos: top-left
+      - say: "Siz başka mahallede kiraya çıkıyorsunuz."
+        image: 'medium shot of the family carrying boxes into a cramped dark rented basement flat'
+      - say: "Kira her yıl artıyor."
+        image: 'close-up of a landlord counting banknotes at the door, {SEN} handing over money'
+      - say: "Enflasyon bin dokuz yüz seksen dörtte yüzde kırk sekiz."
+        image: 'medium shot of a 1980s Turkish grocery store, a shopkeeper changing price tags on shelves'
+        overlay: "1984: %48"
+        overlay_pos: top-right
+      - say: "Bin dokuz yüz seksen sekizde yüzde altmış dokuz."
+        reuse: s11_04
+        move: in
+        overlay: "1988: %69"
+        overlay_pos: top-right
+      - say: "Maaşın ay sonunu getirmiyor."
+        image: 'close-up of {SEN} at a kitchen table counting a few banknotes next to an empty sugar jar'
+      - say: "Devletin yeni bir Toplu Konut Fonu var."
+        image: 'medium shot of a 1980s government office with posters of modern housing blocks on the wall'
+      - say: "Fonun gelirinin dörtte birinden fazlası sigara ve içkiden geliyor."
+        image: 'close-up of a coffeehouse table with a pack of cigarettes, an ashtray and a raki glass'
+        overlay: "SİGARA = KONUT"
+        overlay_pos: top-left
+      - say: "Yani kahvede sigara yakan herkes, birinin evine bir tuğla koyuyor."
+        image: 'humorous medium shot of men smoking in a coffeehouse while a small brick floats above each cigarette like a thought bubble'
+      - say: "Ama bu ayrı bir video konusu."
+        reuse: s11_08
+        move: out
+      - say: "Hafta sonları otobüsle inşaata gidiyorsunuz."
+        image: 'medium shot of the family looking out of an old city bus window at a construction site'
+      - say: "Bir ay beton dökülüyor."
+        image: 'medium shot of workers pouring concrete into a floor slab, cement mixer turning'
+      - say: "Sonraki iki ay hiçbir şey olmuyor."
+        image: 'wide shot of the silent construction site, bare concrete frame, a stray dog sleeping, no workers'
+      - say: "Başka semtte bir müteahhidin ortadan kaybolduğu konuşuluyor."
+        image: 'medium shot of neighbors whispering in a stairwell, worried faces'
+      - say: "O gece uyuyamıyorsun."
+        image: 'medium shot of {SEN} sitting awake on the edge of a bed in the dark rented room, moonlight'
+      - say: "On sekiz ay, otuz aya uzuyor."
+        image: 'close-up of wall calendar pages piling up on the floor'
+        overlay: "18 → 30 AY"
+        overlay_pos: center
+
+  - title: "Anahtar ve Kalorifer"
+    scenes:
+      - say: "Ve o gün geliyor."
+        reuse: s01_09
+        move: in
+      - say: "Üçüncü kat. Duvarlar bembeyaz."
+        image: 'wide shot of an empty bright living room with white walls, parquet floor and a big window'
+      - say: "Radyatöre dokunuyorsun."
+        image: 'close-up of the hand of {SEN} touching a warm white cast iron radiator'
+      - say: "Hayatında ilk kez sobasız bir kış geçireceksin."
+        image: 'close-up of {SEN} smiling with closed eyes, warmth on his face'
+      - say: "Kazan bodrumda, kömürü kapıcı atacak."
+        image: 'medium shot of a basement boiler room, a doorman shoveling coal into a large furnace'
+      - say: "Banyo evin içinde."
+        image: 'medium shot of a small tiled 1980s bathroom with a white bathtub and a water heater'
+      - say: "Musluktan sıcak su akıyor."
+        image: 'close-up of steaming hot water running from a chrome tap'
+      - say: "Eşin musluğu üç kez açıp kapatıyor. Emin olmak için."
+        image: 'medium shot of {ESIN} opening and closing the tap with a suspicious look, steam rising'
+      - say: "Çocukların ilk kez ayrı bir odası var."
+        image: 'medium shot of {KIZIN} and {OGLUN} running into a small empty bedroom with excitement'
+      - say: "Balkona çıkıyorsun."
+        image: 'medium shot of {SEN} stepping out onto a narrow concrete balcony with an iron railing'
+      - say: "Aşağıda, avlunun olduğu yerde artık otopark var."
+        image: 'high angle shot from the balcony down onto a small parking lot with two old cars'
+      - say: "İncir ağacından eser yok."
+        reuse: s12_11
+        move: in
+
+  - title: "Apartman Hayatı"
+    scenes:
+      - say: "Hayat çabuk değişiyor."
+        image: 'wide shot of the apartment building stairwell, doors on every landing, a doorman sweeping'
+      - say: "Eskiden kapı çalınmadan girilen evlere artık zille giriliyor."
+        image: 'close-up of a finger pressing a doorbell button next to an apartment door'
+      - say: "Bin dokuz yüz altmış beşte çıkan Kat Mülkiyeti Kanunu artık senin de hayatın."
+        image: 'close-up of a thick law booklet lying on a hallway shoe cabinet'
+        overlay: "KAT MÜLKİYETİ"
+        overlay_pos: top-left
+      - say: "Sekiz daireyi geçen binada bir yönetici şart."
+        image: 'medium shot of apartment residents gathered on folding chairs in a ground floor entrance hall'
+      - say: "İlk toplantıda seni yönetici seçiyorlar."
+        reuse: s13_04
+        move: in
+        overlay: "YÖNETİCİ"
+        overlay_pos: top-right
+      - say: "Çünkü toplantıya zamanında gelen tek kişi sensin."
+        image: 'medium shot of {SEN} sitting alone among many empty folding chairs, looking at his watch'
+      - say: "Kapıcı ve kalorifer giderleri daireler arasında eşit bölünüyor."
+        image: 'close-up of a lined dues notebook with columns and coins next to it, no readable text'
+      - say: "Ve ilk büyük tartışma başlıyor: Kazan saat kaçta yanacak?"
+        image: 'medium shot of residents arguing loudly in the entrance hall, a woman in a dressing gown pointing at a man'
+      - say: "Toplantı iki saat sürüyor."
+        image: 'close-up of a wall clock above the arguing residents, hands moving fast'
+      - say: "Çocuklar artık sokakta değil, merdivende oynuyor."
+        image: 'medium shot of {OGLUN} and other kids playing marbles on the stairwell steps'
+      - say: "Alt kattaki komşu gürültüden şikâyet ediyor."
+        image: 'medium shot of an annoyed neighbor in slippers knocking on the ceiling with a broom handle'
+      - say: "Eski bahçeli komşularınla aynı binadasınız."
+        image: 'wide shot of the apartment facade with neighbors on different balconies'
+      - say: "Ama birbirinizi eskisinden daha az görüyorsunuz."
+        image: 'close-up of two closed apartment doors facing each other on a quiet landing'
+      - say: "Eşin balkona saksılar diziyor."
+        image: 'medium shot of {ESIN} arranging clay flower pots with geraniums on the balcony'
+      - say: "Birinde küçük bir incir fidanı var."
+        image: 'close-up of a tiny fig sapling growing in a clay pot on the balcony, morning sun'
+
+  - title: "Planı Hatırlıyor musun?"
+    scenes:
+      - say: "Planı hatırlıyor musun?"
+        reuse: s05_15
+        move: in
+        overlay: "PLAN"
+        overlay_pos: top-left
+      - say: "Af çıkacak, tapu gelecek, ev sağlamlaşacak."
+        reuse: s07_03
+        move: out
+      - say: "Senin için öyle oldu."
+        reuse: s12_04
+        move: in
+      - say: "Ama herkes için değil."
+        image: 'wide shot of a different hillside neighborhood that remained full of old shanty houses, children on a dirt road'
+      - say: "Bazı mahallelere ıslah planı hiç gelmedi."
+        reuse: s06_08
+        move: in
+      - say: "Tapu tahsis belgesiyle yıllarca bekleyenler oldu."
+        image: 'medium shot of an elderly man sitting at a kitchen table holding a faded document, many years passed'
+      - say: "İki bin on beşte bile Mecliste hâlâ tapusunu alamayanlar konuşuluyordu."
+        image: 'wide shot of the Turkish parliament general assembly hall during a session, modern day'
+        overlay: "2015"
+        overlay_pos: top-left
+      - say: "Kanunun süresi iki bin on sekize kadar uzatıldı."
+        reuse: s14_07
+        move: in
+        overlay: "2018"
+        overlay_pos: top-left
+      - say: "Bir de dört kat hakkının bedeli vardı."
+        image: 'wide aerial shot of a dense 1990s neighborhood of four-storey apartment blocks packed tightly together'
+      - say: "Ankara Keçiören'de planlar, hektar başına nüfusu seksen yediden üç yüz yirmi dörde çıkarıyordu."
+        image: 'wide shot of crowded hillside apartments in Keçiören, Ankara, narrow streets between buildings'
+        overlay: "87 → 324"
+        overlay_pos: top-right
+      - say: "Bahçeler otopark, sokaklar gölge oldu."
+        image: 'medium shot of a narrow shaded street between tall apartment blocks, parked cars where gardens used to be'
+
+  - title: "Bugün"
+    scenes:
+      - say: "Bugüne gel."
+        image: 'wide shot of the same five-storey apartment building today, faded paint, cracks, satellite dishes on balconies'
+        overlay: "BUGÜN"
+        overlay_pos: top-left
+      - say: "O apartman şimdi otuz yedi yaşında."
+        reuse: s15_01
+        move: in
+      - say: "Merdivenleri ağır ağır çıkıyorsun."
+        image: 'medium shot of {SEN_YASLI} slowly climbing the worn stairwell holding the railing and his cane'
+      - say: "İstanbul'daki binaların yüzde yetmişi iki binden önce yapıldı."
+        image: 'wide aerial shot of modern Istanbul, endless older concrete apartment blocks under a grey sky'
+        overlay: "%70 ESKİ BİNA"
+        overlay_pos: top-right
+      - say: "İki bin on ikide kentsel dönüşüm kanunu çıktı."
+        image: 'wide shot of a modern urban renewal site, a tower crane above old apartment blocks being demolished'
+        overlay: "2012"
+        overlay_pos: top-left
+      - say: "O günden beri iki milyonu aşkın bağımsız bölüm yenilendi."
+        image: 'wide shot of new high-rise residential towers rising where old apartments stood'
+        overlay: "2 MİLYON+"
+        overlay_pos: top-right
+      - say: "Ve bir gün kapı yine çalıyor."
+        reuse: s01_03
+        move: out
+      - say: "Takım elbiseli genç bir adam."
+        image: 'medium shot of {MUTEAHHIT_GENC} standing at the apartment door, polite smile'
+      - say: "Elinde rulo bir çizim değil, bir tablet var."
+        image: 'close-up of a tablet screen showing a 3D render of a tall modern apartment tower'
+      - say: "Burası on kat olur amca, diyor."
+        image: 'medium shot of {MUTEAHHIT_GENC} pointing up toward the ceiling, {SEN_YASLI} looking up'
+        overlay: "10 KAT"
+        overlay_pos: top-right
+      - say: "Balkondaki saksıda incir hâlâ duruyor."
+        image: 'close-up of a big old fig plant in a cracked clay pot on the balcony, sunset light'
+      - say: "Sen olsaydın, bu kez imzalar mıydın?"
+        image: 'close-up of {SEN_YASLI} holding a fountain pen above a contract, hesitating, fig leaves in the foreground'
+      - say: "Senin ailende gecekondudan apartmana geçen var mı? Yorumlara yaz."
+        image: 'warm wide shot of an extended family with grandchildren on the old balcony at sunset'
+      - say: "Abone olmayı unutma. Bu duvarı biz ördük."
+        image: 'medium shot of {SEN_YASLI} proudly patting the wall of the apartment with his palm, smiling'

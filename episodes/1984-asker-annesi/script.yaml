@@ -1,0 +1,603 @@
+# O Yıl Sen — Bölüm 6: Asker Annesi
+title: "Eğer 80'lerde Oğlunu Askere Yollayan Bir Anne Olsaydın?"
+motif: "Su — kapıdan oğlunun arkasından dökülen bir tas su; dönüş gününde yeniden. Tekrar eden şaka: annenin bitmeyen yün çorapları ('Anne, çorap yeter')."
+characters:
+  SEN: "a 44-year-old Turkish mother in a small Anatolian town in 1984, white round head, dot eyes, white cotton headscarf tied under the chin, long dark floral skirt, knitted brown cardigan"
+  SEN_YASLI: "an 86-year-old Turkish grandmother in 2026, white round head, dot eyes, white headscarf, thick glasses, knitted grey cardigan, knitting needles in hand"
+  OGLUN: "a 20-year-old Turkish young man in 1984, white round head, dot eyes, short dark hair, thin mustache, checked shirt and dark trousers"
+  OGLUN_ASKER: "a 20-year-old Turkish conscript soldier in 1984, white round head, dot eyes, very short shaved hair, olive green army uniform and cap"
+  KIZIN: "a 15-year-old Turkish girl in 1984, white round head, dot eyes, long braid, plain blue dress with a cardigan"
+  KOCAN: "a 48-year-old Turkish man in a small Anatolian town in 1984, white round head, dot eyes, grey mustache, flat cap, dark wool jacket"
+  POSTACI: "a 1980s Turkish postman, white round head, dot eyes, mustache, navy blue PTT uniform and cap, leather mail bag"
+  TORUNUN: "a 20-year-old Turkish young man in 2026, white round head, dot eyes, short hair, hoodie and jeans, smartphone in hand"
+youtube:
+  title: "Eğer 80'lerde Oğlunu Askere Yollayan Bir Anne Olsaydın?"
+  description: |-
+    1984 yazı. Oğlunun eline kına yakıyorsun, bavuluna üç çift yün çorap koyuyorsun ve otobüs kalkarken arkasından bir tas su döküyorsun. Önünde on sekiz ay var. Evinde telefon yok, mektup haftalar sürüyor, kura sonucu bir zarfla geliyor.
+
+    Bu videoda askerlik hikâyesini kışladan değil, evden anlatıyoruz: asker uğurlaması, "su gibi git su gibi gel", komşunun telefonu ve PTT'de şehirlerarası sırası, yedi yıl süren telefon bekleme listeleri, yemin töreni yolculuğu, çorap dolu koliler, radyodaki asker türküleri ve bugünün altı aylık askerliğiyle karşılaştırması.
+
+    Senin annen de arkandan su döktü mü? Ya da sen birinin arkasından döktün mü? Hikâyeni yorumlara yaz.
+
+    Not: Hikâye kurgusal bir annenin gözünden anlatılır; videodaki tarih ve rakamlar kaynaklara dayanır. Görseller ve seslendirme yapay zekâ ile üretilmiştir.
+  tags:
+    - "asker annesi"
+    - "asker uğurlama"
+    - "80ler askerlik"
+    - "1984"
+    - "askerlik"
+    - "asker mektubu"
+    - "su gibi git su gibi gel"
+    - "telefon sırası"
+    - "jeton"
+    - "nostalji"
+    - "türkiye tarihi"
+    - "yakın tarih"
+    - "eğer olsaydın"
+    - "o yıl sen"
+  hashtags:
+    - "#askerannesi"
+    - "#80ler"
+    - "#askerlik"
+    - "#nostalji"
+    - "#YakınTarih"
+    - "#OYılSen"
+  pinned_comment: "Annenin askere yolladığı kolide ne vardı? Bizimkinde hep çorap çıkıyor. En güzel hikâyeyi sabitleyelim."
+thumbnail:
+  image: 'a Turkish mother {SEN} on the right side standing at the doorway of a small house, pouring water from a copper bowl onto the ground, tears on her cheeks; in the background on a dirt road an old intercity bus driving away; warm sunset light; clear pale sky on the left'
+  text: "1984\nOĞLUM ASKERDE"
+sources:
+  - "Askerlik süresinin 27.07.1970'te 20 aya, 09.07.1984'te 18 aya indirilmesi; 2019'da 6 ay — Memurlar.net: https://www.memurlar.net/haber/165712/askerlik-suresi-simdiye-kadar-26-defa-degisti.html ; Lexpera 7179 genel gerekçe: https://www.lexpera.com.tr/mevzuat/gerekceler/askeralma-kanunu-7179-genel-gerekce ; https://www.memurlar.net/haber/838263/yeni-askerlik-duzenlemesi-resmi-gazetede-yayimlandi.html"
+  - "1983'te telefon için sıra bekleyen 1,83 milyon kişinin abone sayısını (1,67 milyon) aşması, ortalama bekleme süresinin yedi yıl olması — Yılmaz, Rekabet Kurumu Perşembe Konferansları: https://www.rekabet.gov.tr/Dosya/persembe-konferanslari-yayinlari/perskonfyyn73.pdf ; Törenli, Kültür ve İletişim 8(1), 2005: https://dergipark.org.tr/en/download/article-file/2595716"
+  - "1983'te köylerin yaklaşık %72'sinde telefon olmaması; 1988'de her köye en az bir telefon — Bayazit, Columbia CITI, 1996: https://business.columbia.edu/sites/default/files-efs/imce-uploads/CITI/Working%20Papers/Working%20Papers%20T/Telecommunications%20in%20Turkey.pdf"
+  - "Yüz kişiye düşen ana hat sayısı 1980'de 2,5 — Akça, Ç.Ü. SBE Dergisi 16(1), 2007: https://dergipark.org.tr/tr/download/article-file/50334"
+  - "Şehirlerarası görüşmeler için büyük jetonlar — Numista: https://en.numista.com/49799"
+  - "Asker uğurlamasında kapıya su dökülmesi, 'su gibi git su gibi gel' — Habertürk/AA, 28.04.2026: https://www.haberturk.com/aa-3880556 ; Daily Sabah: https://www.dailysabah.com/life/2019/06/10/superstitions-busted-throwing-water-after-a-farewell"
+  - "Er ve jandarma erlerinin mektuplarına ve ailelerin erlere gönderdiği mektuplara indirimli posta ücreti — 5584 sayılı Posta Kanunu md.22: https://www.qsl.net/ta2iz/KANUN/POSTAK.htm"
+  - "Mahallede okuma yazma bilmeyen anneler adına mektup yazılması, 'sayılı gündür gelir geçer' — Coşkun, Serbestiyet: https://serbestiyet.com/yazarlar/sayili-gundur-gelip-gecer-16037/"
+  - "TRT repertuvarında asker türküleri — İrtürk, Atatürk Üniversitesi YL tezi: https://acikbilim.yok.gov.tr/handle/20.500.12812/53693?show=full"
+  - "TRT'nin 30 Haziran 1984'te renkli yayına geçmesi — Bianet: https://bianet.org/yazi/televizyon-karsisinda-44-yil-135779"
+  - "15 Ağustos 1984 Eruh ve Şemdinli saldırıları — Sözcü: https://www.sozcu.com.tr/heykeli-dikilen-pkkli-terorist-askerimizi-boyle-sehit-etti-wp580476"
+  - "1987 bedelli askerliği (3358 sayılı Kanun) ve 18.433 kişinin yararlanması — TBMM Genel Kurulu, 29.11.2011: https://tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay?eid=20826 ; CNN Türk: https://cnnturk.com/turkiye/gecmisten-gunumuze-turkiyenin-bedelli-askerlik-tarihi"
+  - "Askercell abonelerinin ayda ortalama 270 dakika konuşması (2015) — Sondakika: https://www.sondakika.com/guncel/haber-askercell-60-bin-aboneye-ulasti-7554740/"
+sections:
+  - title: "1984: Kapıdaki Su"
+    scenes:
+      - say: "Yıl bin dokuz yüz seksen dört, ağustosun son sabahı."
+        image: 'wide shot of a small Anatolian town at dawn in 1984, mud-brick and stone houses, a dusty main road, a minaret in the distance'
+        overlay: "1984"
+        overlay_pos: top-left
+      - say: "Kapının önündesin, elinde bakır bir tas var."
+        image: 'medium shot of {SEN} standing at the wooden door of a stone house holding a shiny copper bowl full of water'
+      - say: "Tasın içinde su titriyor. Senin elin de."
+        image: 'extreme close-up of water trembling inside a copper bowl held by shaking hands'
+      - say: "Oğlun sokağın başında, otobüsün basamağında."
+        image: 'wide shot of {OGLUN} with a small cardboard suitcase climbing onto an old intercity bus at the end of the street'
+      - say: "Saçları yarın kazınacak."
+        image: 'close-up of {OGLUN} looking back from the bus door, wind in his dark hair'
+      - say: "Arkasından suyu döküyorsun."
+        image: 'medium shot of {SEN} pouring water from the copper bowl onto the dusty ground in front of the door'
+        overlay: "SU GİBİ GİT"
+        overlay_pos: top-right
+      - say: "Tebrikler, artık bir asker annesisin."
+        image: 'medium shot of {SEN} standing alone at the doorway, wet ground at her feet, bus dust in the air'
+      - say: "Önünde on sekiz ay var."
+        image: 'close-up of a wall calendar with many empty squares, a pencil hanging on a string'
+        overlay: "18 AY"
+        overlay_pos: center
+      - say: "Bu aylarda bir postacının ayak sesini ezbere öğreneceksin,"
+        image: 'close-up of a postman leather mail bag swinging, worn boots on cobblestones'
+      - say: "Bir telefon için komşunun kapısında bekleyeceksin,"
+        image: 'medium shot of a black rotary telephone on a lace doily in a neighbor house'
+      - say: "Ve hayatında hiç örmediğin kadar çorap öreceksin."
+        image: 'close-up of knitting needles and a growing pile of wool socks in a basket'
+      - say: "Bu kelimeyi aklında tut."
+        image: 'extreme close-up of water drops falling from the edge of a copper bowl in slow motion'
+        overlay: "SU"
+        overlay_pos: center
+      - say: "Su. Bu hikâye bir tas suyla başlıyor."
+        reuse: s01_12
+        move: in
+
+  - title: "Önce Biraz Arka Plan"
+    scenes:
+      - say: "Önce biraz arka plan."
+        image: 'wide aerial shot of Anatolian countryside in 1984, small towns and villages scattered on brown hills, a single road'
+        overlay: "TÜRKİYE 1984"
+        overlay_pos: top-left
+      - say: "Ülkede her erkek askere gidiyor."
+        image: 'wide shot of a town square with a crowd seeing off several young men, Turkish flags waving'
+      - say: "On dört yıldır askerlik yirmi ay sürüyordu."
+        image: 'close-up of an old military conscription paper with a round stamp, no readable text'
+        overlay: "20 AY"
+        overlay_pos: top-right
+      - say: "Bu yaz, dokuz temmuzda, on sekiz aya indi."
+        reuse: s02_03
+        move: in
+        overlay: "9 TEMMUZ: 18 AY"
+        overlay_pos: top-right
+      - say: "Komşular sana müjde verir gibi söylüyor: İki ay kâr!"
+        image: 'medium shot of two neighbor women smiling and holding up two fingers at a doorway'
+      - say: "Sen hesabı tersten yapıyorsun: Hâlâ on sekiz ay."
+        image: 'close-up of {SEN} counting on her fingers with a worried face'
+      - say: "Bir de haberleşme meselesi var."
+        image: 'wide shot of telephone poles along an empty dusty road leading to a village'
+      - say: "Bir yıl önce ülkede telefon için sırada bekleyen sayısı, abone sayısını geçmişti."
+        image: 'wide shot of a long queue of people with forms in front of a 1980s PTT office'
+        overlay: "SIRA > ABONE"
+        overlay_pos: top-left
+      - say: "Ortalama bekleme süresi tam yedi yıl."
+        image: 'close-up of an old application form with a stamp and a date, yellowed paper'
+        overlay: "7 YIL"
+        overlay_pos: center
+      - say: "Köylerin yaklaşık yüzde yetmiş ikisinde hiç telefon yok."
+        image: 'wide shot of a quiet village with no telephone wires, children playing near a fountain'
+        overlay: "%72 TELEFONSUZ"
+        overlay_pos: top-right
+      - say: "Senin evinde de yok."
+        image: 'medium shot of {SEN} sitting in a simple living room with a sedir, a radio and no telephone'
+      - say: "Başvuruyu altı yıl önce yapmıştınız."
+        image: 'close-up of an old tin box holding a yellowed PTT application receipt and some coins'
+      - say: "Sırada kaçıncı olduğunuzu kimse bilmiyor."
+        reuse: s02_09
+        move: in
+      - say: "Seksen yılında yüz kişiye düşen telefon hattı sadece iki buçuktu."
+        image: 'wide shot of a town street with a single telephone wire running to only one house among many'
+        overlay: "100 KİŞİYE 2,5"
+        overlay_pos: top-right
+      - say: "Oğlunla aranda sadece kâğıt, pul ve sabır var."
+        image: 'still life of an envelope, a postage stamp and an oil lamp on a wooden table'
+
+  - title: "Uğurlama Gecesi"
+    scenes:
+      - say: "Bir gece önce ev ana baba günü."
+        image: 'wide shot of a crowded small courtyard at night, string lights, neighbors and relatives gathered'
+      - say: "Davul zurna sokağın başından duyuluyor."
+        image: 'medium shot of a davul drummer and a zurna player walking down a narrow street at night'
+      - say: "Oğlunun eline kına yakılıyor."
+        image: 'close-up of the palm of {OGLUN} receiving a round dot of red henna, women singing around him'
+        overlay: "KINA"
+        overlay_pos: top-left
+      - say: "Sonra oğlunu omuzlara alıp sokak sokak gezdiriyorlar."
+        image: 'medium shot of young men carrying {OGLUN} on their shoulders through a narrow street at night, a Turkish flag waving'
+      - say: "Davulcuya bahşiş, oğluna dua, sana sarılan yüz tane kadın."
+        image: 'medium shot of many women hugging {SEN} one after another in the courtyard'
+      - say: "Kadınlar türkü söylüyor, sen söyleyemiyorsun."
+        image: 'medium shot of women singing in a circle, {SEN} in the middle with lips pressed together'
+      - say: "Çünkü boğazına bir şey takılmış."
+        image: 'close-up of {SEN} swallowing hard, eyes wet, henna bowl in her hands'
+      - say: "Gece yarısı bavulu hazırlıyorsunuz."
+        image: 'medium shot of {SEN} and {KIZIN} packing a small cardboard suitcase on the floor under a dim bulb'
+      - say: "İki gömlek, bir havlu, bir kutu kolonya."
+        image: 'close-up of a folded shirt, a towel and a bottle of lemon cologne in the suitcase'
+      - say: "Bir de üç çift yün çorap."
+        image: 'close-up of three pairs of thick hand-knitted wool socks being placed in the suitcase'
+        overlay: "3 ÇİFT ÇORAP"
+        overlay_pos: top-right
+      - say: "Oğlun gülüyor: Anne, orada çorap veriyorlar."
+        image: 'medium shot of {OGLUN} laughing and holding up a wool sock'
+      - say: "Sen dördüncü çifti koyuyorsun."
+        image: 'close-up of {SEN} quietly slipping a fourth pair of socks under the shirts'
+      - say: "Bu çorapları aklında tut. Çok tekrar edecekler."
+        reuse: s03_12
+        move: in
+      - say: "Kocan kapının önünde, sigara üstüne sigara."
+        image: 'medium shot of {KOCAN} standing at the gate at night smoking, face in shadow'
+      - say: "Bir şey demiyor. Babalar böyle günlerde bir şey demez."
+        image: 'close-up of {KOCAN} looking at the stars, cigarette smoke curling'
+
+  - title: "Su Gibi Git, Su Gibi Gel"
+    scenes:
+      - say: "Sabah otobüs vaktinde geliyor. Hiç gecikmeyen tek otobüs."
+        image: 'medium shot of an old green intercity bus pulling into a small town stop at sunrise'
+      - say: "Oğlunun boynuna sarılıyorsun."
+        image: 'medium shot of {SEN} hugging {OGLUN} tightly at the bus stop, neighbors watching'
+      - say: "Kokusunu ezberlemeye çalışıyorsun."
+        image: 'close-up of {SEN} with eyes closed, cheek on the shoulder of {OGLUN}'
+      - say: "Sonra tası alıp kapıya koşuyorsun."
+        reuse: s01_02
+        move: in
+      - say: "Arkasından su dökülen gidenin yolu açık olsun, diye inanılıyor."
+        reuse: s01_06
+        move: in
+      - say: "Söz hep aynı: Su gibi git, su gibi gel."
+        image: 'close-up of water splashing on dusty ground, droplets catching the sunrise light'
+        overlay: "SU GİBİ GEL"
+        overlay_pos: top-right
+      - say: "Bu geleneğin nereden geldiği tam bilinmiyor."
+        image: 'wide sepia shot of an old Anatolian village with women standing at doorways'
+      - say: "Gidenlerin çoğunun dönmediği zamanlardan kaldığı düşünülüyor."
+        reuse: s04_07
+        move: in
+      - say: "Otobüs dönemeçte kayboluyor."
+        image: 'wide shot of the bus disappearing around a bend in the dusty road, a trail of dust'
+      - say: "Dökülen su toprağa çekiliyor."
+        image: 'close-up of the wet patch on the ground slowly drying in the sun'
+      - say: "Sen kapının önünden kalkmıyorsun."
+        image: 'medium shot of {SEN} sitting on the stone doorstep staring at the empty road'
+
+  - title: "Postacının Ayak Sesi"
+    scenes:
+      - say: "İlk hafta mektup gelmiyor."
+        image: 'medium shot of {SEN} looking out of a window at an empty street, lace curtain pulled aside'
+      - say: "İkinci hafta da gelmiyor."
+        reuse: s05_01
+        move: in
+      - say: "Postacının ayak sesini sokağın başından tanıyorsun."
+        image: 'medium shot of {POSTACI} walking up the cobbled street with his leather bag'
+      - say: "Her gün kapıda duruyor ve geçip gidiyor."
+        image: 'medium shot of {POSTACI} passing by the house, {SEN} at the door with hopeful eyes'
+      - say: "Üçüncü hafta duruyor."
+        image: 'close-up of {POSTACI} stopping and pulling an envelope out of his bag'
+      - say: "Zarfın köşesinde bir asker damgası."
+        image: 'close-up of a white envelope with a postage stamp and a round military post mark, no readable text'
+      - say: "Kanun bile askerin mektubuna indirim yapıyor."
+        reuse: s05_06
+        move: in
+        overlay: "İNDİRİMLİ PUL"
+        overlay_pos: top-right
+      - say: "Ama sen okuma yazma bilmiyorsun."
+        image: 'close-up of {SEN} holding the envelope with both hands, looking at it helplessly'
+      - say: "Mektubu kızın okuyor."
+        image: 'medium shot of {KIZIN} reading a letter aloud by the window, {SEN} sitting close to her'
+      - say: "Anneciğim, ben çok iyiyim, yemekler güzel."
+        image: 'close-up of handwritten letter lines on lined paper, blurred ink, no readable words'
+      - say: "Bunun yalan olduğunu biliyorsun."
+        image: 'close-up of {SEN} with a knowing sad smile'
+      - say: "Ama mektubu dokuz kez okutuyorsun."
+        image: 'medium shot of {KIZIN} reading the same letter again with a tired face, {SEN} nodding'
+        overlay: "9 KEZ"
+        overlay_pos: top-right
+      - say: "Cevabı kızına yazdırıyorsun."
+        image: 'medium shot of {KIZIN} writing with a pen at the table while {SEN} dictates with her hands moving'
+      - say: "Sayılı gündür oğlum, gelir geçer."
+        reuse: s05_13
+        move: in
+      - say: "Bir de not: Çoraplarını giy."
+        image: 'close-up of {KIZIN} rolling her eyes while writing the last line'
+
+  - title: "Yemin Töreni Yolculuğu"
+    scenes:
+      - say: "Bir ay sonra yemin töreni var."
+        image: 'wide shot of a military parade ground with rows of young soldiers in olive uniforms, flags'
+      - say: "Hayatında ilk kez büyük şehre gideceksin."
+        image: 'medium shot of {SEN} and {KOCAN} at a small bus station holding a cloth bundle and a thermos'
+      - say: "Bu yolculukta üç düşmanın var."
+        image: 'close-up of {SEN} clutching her handbag on a bus seat, nervous'
+        overlay: "ÜÇ DÜŞMAN"
+        overlay_pos: top-left
+      - say: "Bir: on iki saatlik otobüs."
+        image: 'wide shot of an old bus on a long winding mountain road at night, headlights'
+        overlay: "1. YOL"
+        overlay_pos: top-right
+      - say: "İki: Şehrin kalabalığı."
+        image: 'wide shot of a crowded 1980s city street, traffic, honking minibuses, tall buildings'
+        overlay: "2. KALABALIK"
+        overlay_pos: top-right
+      - say: "Üç: Çantada taşıdığın yirmi tane yaprak sarması."
+        image: 'close-up of a big plastic container full of stuffed vine leaves wrapped in a cloth'
+        overlay: "3. SARMA"
+        overlay_pos: top-right
+      - say: "Tören alanında yüzlerce asker aynı kıyafette."
+        reuse: s06_01
+        move: in
+      - say: "Saçları kazınmış, hepsi birbirine benziyor."
+        image: 'medium shot of rows of soldiers with shaved heads standing at attention'
+      - say: "Ama sen oğlunu ilk bakışta buluyorsun."
+        image: 'close-up of {SEN} pointing with excitement through a fence'
+      - say: "Üçüncü sıra, soldan yedinci."
+        image: 'medium shot of {OGLUN_ASKER} standing in line, eyes searching the crowd'
+      - say: "Tören bitince sarılıyorsunuz."
+        image: 'medium shot of {SEN} hugging {OGLUN_ASKER} near the parade ground fence'
+      - say: "Çok zayıflamış. Sarmaları sayarak yediriyorsun."
+        image: 'medium shot of {OGLUN_ASKER} eating stuffed vine leaves on a bench while {SEN} watches and counts'
+      - say: "Ayağında senin ördüğün çorap var."
+        image: 'close-up of army boots with a bit of hand-knitted wool sock visible at the ankle'
+      - say: "Akşam ziyaret saati bitiyor, düdük çalıyor."
+        image: 'medium shot of a soldier on duty blowing a whistle at the gate, families saying goodbye'
+      - say: "Oğlun koşarak sıraya dönüyor, bir kez dönüp el sallıyor."
+        image: 'medium shot of {OGLUN_ASKER} running back to the line and turning to wave'
+      - say: "Dönüş yolunda otobüs camına alnını dayıyorsun. On iki saat."
+        image: 'close-up of {SEN} resting her forehead on a bus window at night, lights passing outside'
+
+  - title: "Kura Zarfı"
+    scenes:
+      - say: "Sonra kura çekiliyor."
+        image: 'close-up of folded paper slips in a metal box, a hand reaching in'
+      - say: "Sonucu yine bir mektuptan öğreniyorsun."
+        reuse: s05_06
+        move: out
+      - say: "Kızın zarfı açıyor ve bir an susuyor."
+        image: 'close-up of {KIZIN} holding an open letter, her face suddenly serious'
+      - say: "Doğu."
+        image: 'close-up of {SEN} freezing, the wool sock she was knitting dropping to her lap'
+        overlay: "DOĞU"
+        overlay_pos: center
+      - say: "Harita açıyorsunuz. Parmağın uzun bir yol gidiyor."
+        image: 'close-up of a finger tracing a long route across an old paper map of Turkey from west to east'
+      - say: "On beş ağustosta Eruh ve Şemdinli'den kötü haberler gelmişti."
+        image: 'medium shot of a family sitting silently in front of a television showing a news anchor, dim room'
+        overlay: "15 AĞUSTOS 1984"
+        overlay_pos: top-left
+      - say: "O günden beri akşam haberlerini ayakta izliyorsun."
+        image: 'medium shot of {SEN} standing close to the television, holding her breath'
+      - say: "Oturursan kötü bir şey olacakmış gibi."
+        reuse: s07_07
+        move: in
+      - say: "Komşular teselli ediyor: Dağ başı değil, şehir merkezi."
+        image: 'medium shot of neighbor women sitting on a sedir around {SEN}, holding her hands'
+      - say: "Sen yeni bir yumak açıyorsun."
+        image: 'close-up of hands starting a new ball of thick dark wool'
+
+  - title: "Uykusuz Geceler"
+    scenes:
+      - say: "Kura sonucundan sonra uykun kaçıyor."
+        image: 'medium shot of {SEN} lying awake in bed in a dark room, eyes open, moonlight through lace curtains'
+      - say: "Gece rüzgâr çıksa, oğlun üşüyor mu diye düşünüyorsun."
+        image: 'close-up of a window shaking in the wind at night, snowflakes outside'
+      - say: "Kalkıp bir sıra daha örüyorsun."
+        image: 'medium shot of {SEN} knitting by the light of a small oil lamp at night'
+      - say: "Kocan uyanıyor: Hanım, saat üç."
+        image: 'medium shot of {KOCAN} squinting from the bed, hair messy'
+      - say: "Üç sıra kaldı, diyorsun."
+        reuse: s08_03
+        move: in
+      - say: "Sabah ezanında bir çorap bitmiş oluyor."
+        image: 'close-up of a finished wool sock on the lap of {SEN}, the first light of dawn on the window'
+      - say: "Bir tane daha başlıyorsun."
+        reuse: s07_10
+        move: out
+      - say: "Mahalledeki asker anneleri bir araya geliyor."
+        image: 'medium shot of several mothers in headscarves sitting in a circle on cushions, sharing tea'
+      - say: "Herkesin elinde bir mektup, bir fotoğraf."
+        image: 'close-up of many hands holding small soldier photos and envelopes'
+      - say: "Birbirinizin oğlunun adını ezberliyorsunuz."
+        reuse: s08_09
+        move: in
+      - say: "Birinin oğlundan haber gelince hepiniz seviniyorsunuz."
+        image: 'medium shot of mothers laughing and hugging around one woman holding a letter'
+
+  - title: "Komşunun Telefonu"
+    scenes:
+      - say: "Mahallede tek telefon, muhtarın yan komşusunda."
+        image: 'medium shot of a black rotary telephone on a crocheted doily in a neat living room'
+      - say: "Ayda bir, oğlun oradan arayabiliyor."
+        image: 'wide shot of {SEN} hurrying down the street in slippers, headscarf slipping'
+      - say: "Haber önceden mektupla geliyor: Salı akşamı sekizde."
+        image: 'close-up of a letter with a time circled, no readable words'
+        overlay: "SALI 20:00"
+        overlay_pos: top-right
+      - say: "Saat yedide komşunun kapısındasın."
+        image: 'medium shot of {SEN} sitting very straight on the edge of a neighbor sofa, staring at the phone'
+      - say: "Komşu çay getiriyor. Çay soğuyor."
+        image: 'close-up of an untouched tea glass next to the telephone, steam gone'
+      - say: "Sekiz geçiyor. Sekiz buçuk."
+        image: 'close-up of a wall clock pendulum swinging slowly'
+      - say: "Oğlun bir PTT'de, şehirlerarası sırada bekliyor."
+        image: 'medium shot of {OGLUN_ASKER} in a long queue of soldiers inside a 1980s PTT office'
+      - say: "Cebinde şehirlerarası için büyük jetonlar."
+        image: 'close-up of a palm holding large brass telephone tokens with a hole in the middle'
+        overlay: "BÜYÜK JETON"
+        overlay_pos: top-right
+      - say: "Ve telefon çalıyor."
+        image: 'extreme close-up of the black telephone bell ringing, slight motion blur'
+      - say: "Alo, anne? Sesim geliyor mu?"
+        image: 'medium shot of {OGLUN_ASKER} shouting into a public phone receiver, hand over his other ear'
+      - say: "Hat cızırtılı. Üç dakikanız var."
+        reuse: s09_10
+        move: in
+        overlay: "3 DAKİKA"
+        overlay_pos: top-right
+      - say: "Sen bütün ay ne söyleyeceğini düşündün."
+        image: 'close-up of {SEN} holding the receiver with both hands, lips trembling'
+      - say: "Ağzından tek bir cümle çıkıyor: Çoraplarını giyiyor musun?"
+        reuse: s09_12
+        move: in
+      - say: "Hat kesiliyor."
+        image: 'close-up of the receiver hanging silent, a long beep sound implied'
+
+  - title: "Çorap Dolu Koli"
+    scenes:
+      - say: "Kış yaklaşıyor."
+        image: 'wide shot of the small town under the first snow, chimneys smoking'
+      - say: "Doğuda kar eylülde başlıyor, diyorlar."
+        image: 'wide shot of snowy eastern mountains and a lonely military outpost, cold blue light'
+      - say: "Bir koli hazırlıyorsun."
+        image: 'medium shot of {SEN} kneeling beside a cardboard box on the floor, packing'
+      - say: "Pestil, ceviz, kuru dut."
+        image: 'close-up of dried fruit leather, walnuts and dried mulberries wrapped in newspaper'
+      - say: "Bir kalıp sabun, bir paket sigara."
+        image: 'close-up of a bar of olive soap and a pack of cigarettes placed in the box'
+      - say: "Ve altı çift yün çorap."
+        image: 'close-up of six pairs of thick wool socks stuffed into every corner of the box'
+        overlay: "6 ÇİFT ÇORAP"
+        overlay_pos: top-right
+      - say: "Kocan koliyi kaldırınca şaşırıyor: Bunun içinde ne var, kaya mı?"
+        image: 'medium shot of {KOCAN} lifting the heavy box with a surprised face'
+      - say: "Postanede koliyi tartıyorlar."
+        image: 'medium shot of a postal clerk weighing the box on an old mechanical scale'
+      - say: "Bir ay sonra cevap geliyor."
+        reuse: s05_09
+        move: in
+      - say: "Anneciğim, koğuşta herkes senin çorabını giyiyor."
+        image: 'medium shot of a group of soldiers in a barracks room all wearing colorful hand-knitted wool socks'
+      - say: "Lütfen artık yeter."
+        image: 'close-up of {KIZIN} reading the line and laughing'
+      - say: "Sen ertesi gün yeni bir yumak alıyorsun."
+        reuse: s07_10
+        move: in
+
+  - title: "Radyo ve Renkli Ekran"
+    scenes:
+      - say: "Akşamları radyo hiç kapanmıyor."
+        image: 'close-up of an old wooden radio on a shelf with a crocheted cover, warm glow'
+      - say: "Bir asker türküsü çaldığında herkes susuyor."
+        image: 'medium shot of the family sitting silently around the radio, {SEN} with her hand on her chest'
+      - say: "Sen türkünün her sözünü oğluna söyletiyorsun aklında."
+        image: 'dreamlike shot of {OGLUN_ASKER} singing in the snowy mountains, seen as a soft memory'
+      - say: "Bu yaz bir şey daha değişti."
+        image: 'medium shot of a family gathering around a new television set on a lace-covered cabinet'
+      - say: "Otuz haziranda TRT renkli yayına geçti."
+        image: 'close-up of a 1980s television screen bursting with bright colors for the first time'
+        overlay: "RENKLİ TV"
+        overlay_pos: top-right
+      - say: "Türkiye, Avrupa'da siyah beyazda kalan son ülkeydi."
+        reuse: s11_05
+        move: in
+      - say: "Ama sizin televizyonunuz hâlâ siyah beyaz."
+        image: 'close-up of an old black and white television showing grey images, rabbit-ear antenna'
+      - say: "Ekrandaki askerler gri. Sen hepsine oğlunun yüzünü takıyorsun."
+        image: 'close-up of {SEN} looking at the black and white screen showing soldiers, reflection in her glasses'
+
+  - title: "Sayılı Gün"
+    scenes:
+      - say: "Duvardaki takvimde her gece bir gün siliniyor."
+        image: 'close-up of {SEN} crossing out a day on a wall calendar with a pencil'
+      - say: "Kızın bir defter tutuyor, kalan günü sayıyor."
+        image: 'close-up of a school notebook with neat tally marks filling the page'
+      - say: "Beş yüz kırk gün. Dört yüz. Üç yüz."
+        reuse: s12_02
+        move: in
+        overlay: "540 GÜN"
+        overlay_pos: top-right
+      - say: "Kış geçiyor, bahar geliyor."
+        image: 'wide shot of the town in spring, blooming trees, children on the street'
+      - say: "Bayramda oğlun izne gelemiyor."
+        image: 'medium shot of a festive holiday table with baklava and many relatives, an empty chair'
+      - say: "Sofraya bir tabak fazla koyuyorsun."
+        image: 'close-up of an empty plate and spoon set in front of the empty chair'
+      - say: "Kimse o tabağı kaldırmıyor."
+        reuse: s12_06
+        move: in
+      - say: "Bir mektupta oğlun usta birliğinden bahsediyor."
+        image: 'medium shot of {OGLUN_ASKER} cooking in a big military kitchen with large pots'
+      - say: "Aşçı olmuş. Sen ona yumurta kırmayı bile öğretmemiştin."
+        image: 'close-up of {SEN} laughing with tears while listening to the letter'
+      - say: "Bir başka mektupta bir fotoğraf var."
+        image: 'close-up of a small black and white photo of a soldier posing in front of a painted studio backdrop'
+      - say: "Fotoğrafı aynanın kenarına sıkıştırıyorsun."
+        image: 'close-up of the photo tucked into the wooden frame of a mirror'
+      - say: "Her sabah saçını tararken onunla göz göze geliyorsun."
+        reuse: s12_11
+        move: in
+      - say: "Son ay kızının defteri sayfa sayfa doluyor."
+        reuse: s12_02
+        move: out
+      - say: "Otuz gün. Yirmi. On."
+        image: 'close-up of a hand writing the number ten in large digits in a school notebook'
+        overlay: "10 GÜN"
+        overlay_pos: top-right
+      - say: "Son gece evde kimse uyumuyor."
+        image: 'wide shot of the small stone house at night with every window lit'
+
+  - title: "Dönüş"
+    scenes:
+      - say: "Ve şubatın sonunda bir mektup geliyor."
+        reuse: s05_05
+        move: in
+      - say: "Tek satır: Anne, salı geliyorum."
+        image: 'close-up of {KIZIN} jumping up with the letter in her hand, shouting'
+        overlay: "SALI GELİYORUM"
+        overlay_pos: top-right
+      - say: "Üç gün boyunca ev temizleniyor."
+        image: 'medium shot of {SEN} and {KIZIN} beating a carpet in the courtyard, dust flying'
+      - say: "Ev zaten temiz."
+        image: 'medium shot of a spotless tidy living room, everything perfectly aligned'
+      - say: "Salı sabahı otobüs durağındasın."
+        image: 'wide shot of {SEN} waiting alone at the bus stop at dawn, holding the copper bowl'
+      - say: "Otobüs vaktinde gelmiyor. Bu sefer gelmiyor."
+        image: 'close-up of {SEN} looking at the empty road, frost on the ground'
+      - say: "Sonra dönemeçte bir toz bulutu."
+        reuse: s04_09
+        move: in
+      - say: "Basamaktan bir asker iniyor."
+        image: 'medium shot of {OGLUN_ASKER} stepping down from the bus with a duffel bag, discharge papers in hand'
+        overlay: "TEZKERE"
+        overlay_pos: top-left
+      - say: "Daha geniş omuzlu, daha sessiz."
+        image: 'close-up of {OGLUN_ASKER} with a calm grown-up face and a short mustache'
+      - say: "Koşamıyorsun. Bacakların tutmuyor."
+        image: 'medium shot of {SEN} frozen in place with her hand over her mouth'
+      - say: "O koşuyor."
+        image: 'medium shot of {OGLUN_ASKER} running toward his mother on the dusty road'
+      - say: "Arkadan kocan da koşuyor. Sigarası yere düşüyor."
+        image: 'medium shot of {KOCAN} running behind on the dusty road, a lit cigarette falling from his fingers'
+      - say: "Sarıldığında kokusu değişmiş, ama yine onun kokusu."
+        image: 'medium shot of mother and son hugging tightly at the bus stop, other passengers smiling'
+      - say: "Eve gelince kapının önüne yine su döküyorsun."
+        image: 'medium shot of {SEN} pouring water from the copper bowl at the doorway while her son watches'
+      - say: "Bu kez gidenin değil, gelenin arkasından."
+        reuse: s13_14
+        move: in
+
+  - title: "Planı Hatırlıyor musun?"
+    scenes:
+      - say: "Planı hatırlıyor musun?"
+        reuse: s01_08
+        move: out
+        overlay: "PLAN"
+        overlay_pos: top-left
+      - say: "On sekiz ay sabredecek, oğlunu geri alacaktın."
+        reuse: s12_01
+        move: out
+      - say: "Aldın. Ama herkes aynı plana tabi değildi."
+        image: 'medium shot of a wealthy family in a city apartment, a father counting foreign banknotes'
+      - say: "İki yıl sonra, bin dokuz yüz seksen yedide bedelli askerlik geldi."
+        image: 'close-up of a stack of German mark banknotes on a polished desk'
+        overlay: "1987: BEDELLİ"
+        overlay_pos: top-left
+      - say: "On sekiz bin dört yüz otuz üç kişi askerliğini parayla bitirdi."
+        reuse: s14_04
+        move: in
+        overlay: "18.433 KİŞİ"
+        overlay_pos: top-right
+      - say: "Sen oğlunu yollarken bu seçenek yoktu."
+        image: 'close-up of {SEN} looking at the photo tucked in the mirror frame'
+      - say: "Olsa da sizin cebinizde o mark yoktu."
+        reuse: s14_06
+        move: in
+      - say: "Bir de telefon meselesi düzeliyor."
+        image: 'wide shot of workers installing telephone lines on poles along a village road in the late 1980s'
+      - say: "Bin dokuz yüz seksen sekizde her köye en az bir telefon ulaşıyor."
+        image: 'medium shot of villagers gathered proudly around a newly installed public telephone booth in a village square'
+        overlay: "1988"
+        overlay_pos: top-left
+      - say: "Oğlun eve döndükten iki yıl sonra."
+        image: 'close-up of {SEN} smiling with irony, shaking her head'
+
+  - title: "Bugün"
+    scenes:
+      - say: "Bugüne gel."
+        image: 'wide shot of the same small Anatolian town today, apartment blocks, satellite dishes, the old stone house still standing'
+        overlay: "BUGÜN"
+        overlay_pos: top-left
+      - say: "Askerlik artık altı ay."
+        image: 'medium shot of modern Turkish soldiers in digital camouflage at a training ground'
+        overlay: "6 AY"
+        overlay_pos: top-right
+      - say: "Senin oğlunun yaptığının üçte biri."
+        reuse: s15_02
+        move: in
+      - say: "Askerlere özel hatla ayda ortalama iki yüz yetmiş dakika konuşuluyor."
+        image: 'close-up of a young soldier talking on a mobile phone and smiling, barracks in the background'
+        overlay: "270 DAKİKA"
+        overlay_pos: top-right
+      - say: "Senin bütün askerliğin boyunca konuştuğun süre belki yarım saat."
+        reuse: s09_14
+        move: in
+      - say: "Bu sabah torunun askere gidiyor."
+        image: 'medium shot of {TORUNUN} with a backpack at the door of an apartment, checking his phone'
+      - say: "Telefonunda ailenin mesaj grubu, dakikada bir titriyor."
+        image: 'close-up of a smartphone screen with many incoming message notifications, no readable text'
+      - say: "Sen yine kapıda, elinde bakır bir tas var."
+        image: 'medium shot of {SEN_YASLI} standing at the apartment door holding the same old copper bowl, smiling'
+      - say: "Torunun gülüyor: Babaanne, bu çağda mı?"
+        image: 'medium shot of {TORUNUN} laughing gently and hugging {SEN_YASLI}'
+      - say: "Sen suyu döküyorsun. Her çağda."
+        image: 'close-up of water splashing on a modern tiled entrance floor, sunlight'
+      - say: "Çantasına da dört çift yün çorap koydun."
+        image: 'close-up of four pairs of hand-knitted wool socks tucked into a modern backpack'
+      - say: "Senin annen de arkandan su döktü mü? Yorumlara yaz."
+        image: 'warm wide shot of a family at a doorway waving goodbye, water on the ground, morning light'
+      - say: "Abone olmayı unutma. Çorap bizden."
+        image: 'close-up of {SEN_YASLI} knitting with a wink, a basket full of wool socks beside her'
