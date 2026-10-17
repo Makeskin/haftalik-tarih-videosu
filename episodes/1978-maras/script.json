@@ -267,17 +267,12 @@
      "image": "close-up of a hand-painted 1970s Turkish action film poster with a heroic man, dramatic colors, no readable text"
     },
     {
-     "say": "Gidelim mi diyor.",
-     "reuse": "s03_08",
-     "move": "in"
-    },
-    {
      "say": "Sen başını sallıyorsun. Gitmiyorsun.",
      "image": "close-up of {SEN} shaking his head, pulling his scarf tighter"
     },
     {
      "say": "O akşam gitmediğin için yıllarca kendini şanslı sayacaksın.",
-     "reuse": "s03_11",
+     "reuse": "s03_10",
      "move": "in"
     }
    ]
@@ -307,11 +302,6 @@
     {
      "say": "Bombayı kim attı?",
      "image": "close-up of two shadowy figures whispering to each other under a street lamp, faces not visible"
-    },
-    {
-     "say": "Daha kimse bilmiyor. Ama herkes biliyormuş gibi konuşuyor.",
-     "reuse": "s04_05",
-     "move": "out"
     },
     {
      "say": "O gece bir siyasi partinin il binasına, postaneye ve bir öğretmen derneğine saldırılıyor.",
@@ -369,15 +359,6 @@
      "image": "medium shot of {ANNE} standing in front of the door with her arms crossed, firm, {DEDE} behind her sighing"
     },
     {
-     "say": "Dede söyleniyor ama oturuyor.",
-     "reuse": "s04_18",
-     "move": "in"
-    },
-    {
-     "say": "Sen pencereden sokağa bakıyorsun.",
-     "image": "medium shot of {SEN} looking through a frosted window at an empty street"
-    },
-    {
      "say": "Sokak bomboş. Çocuk sesi bile yok.",
      "image": "wide shot of an empty sloping neighborhood street in grey daylight, closed doors, no people"
     }
@@ -418,15 +399,6 @@
     {
      "say": "Ama sınıftaki tahtada hâlâ birinin yazdığı ödev duruyor.",
      "image": "close-up of a blackboard with faded chalk lines and shapes, no readable words, an eraser on the ledge"
-    },
-    {
-     "say": "Kimse silmeye cesaret edemiyor.",
-     "reuse": "s05_07",
-     "move": "in"
-    },
-    {
-     "say": "Okul öğleden sonra kapanıyor.",
-     "image": "wide shot of a school gate being closed by an old janitor, students walking away in a hurry"
     }
    ]
   },
@@ -465,11 +437,6 @@
     {
      "say": "Baban kapıyı kilitliyor. Sonra bir kez daha kontrol ediyor.",
      "image": "close-up of {BABA}'s hand turning an old iron key in the wooden door lock"
-    },
-    {
-     "say": "Sonra bir kez daha.",
-     "reuse": "s06_07",
-     "move": "in"
     }
    ]
   },
@@ -518,11 +485,6 @@
     {
      "say": "Bu evden bir yere gitmem, diyor. Kimseye bir şey yapmadım.",
      "image": "close-up of {DEDE}'s face in the dark, calm and stubborn"
-    },
-    {
-     "say": "Bu cümleyi sonra çok düşüneceksin.",
-     "reuse": "s07_10",
-     "move": "out"
     }
    ]
   },
@@ -534,15 +496,6 @@
      "image": "wide shot of the city in the morning, several columns of grey smoke rising from distant neighborhoods into a pale sky",
      "overlay": "23 ARALIK",
      "overlay_pos": "top-left"
-    },
-    {
-     "say": "Uyandığında gökyüzünde duman var.",
-     "reuse": "s08_01",
-     "move": "in"
-    },
-    {
-     "say": "Bir değil. Birkaç yerden.",
-     "image": "medium shot of {SEN} and {KARDES} at the window looking at smoke on the horizon, the girl holding his sleeve"
     },
     {
      "say": "Yörükselim. Serintepe. Mağaralı. Yenimahalle.",
@@ -568,7 +521,7 @@
     },
     {
      "say": "Siz gidin, ben evi beklerim, diyor.",
-     "reuse": "s08_08",
+     "reuse": "s08_06",
      "move": "in"
     },
     {
@@ -753,16 +706,12 @@
      "image": "wide shot of {BABA} asking people at a crowded doorway, everyone shaking their heads"
     },
     {
-     "say": "Sonra bir haber geliyor.",
-     "image": "close-up of {BABA} standing still, his flat cap in his hand, head lowered"
-    },
-    {
      "say": "Dede o sabah evinin önünde kalmış.",
      "image": "symbolic shot of an old flat cap lying on a doorstep in grey light, nothing else"
     },
     {
      "say": "O gün olanları bir daha kimse ona soramayacak.",
-     "reuse": "s12_04",
+     "reuse": "s12_03",
      "move": "in"
     },
     {
@@ -773,7 +722,7 @@
     },
     {
      "say": "Bazı mezarların yeri bugün bile tam olarak bilinmiyor.",
-     "reuse": "s12_06",
+     "reuse": "s12_05",
      "move": "in"
     },
     {
@@ -828,15 +777,6 @@
      "move": "in",
      "overlay": "500+?",
      "overlay_pos": "top-right"
-    },
-    {
-     "say": "Kaynaklar arasında bu fark hâlâ kapanmadı.",
-     "reuse": "s13_05",
-     "move": "out"
-    },
-    {
-     "say": "Sonraki yıllarda bu şehrin hikâyesi, ülkenin hikâyesine bağlanacak.",
-     "image": "wide shot of a city skyline at dusk in 1980, dark clouds gathering over it"
     },
     {
      "say": "Ama on iki Eylül bin dokuz yüz seksen ayrı bir video konusu.",
@@ -972,10 +912,6 @@
     {
      "say": "Şimdi torunun karşında oturuyor.",
      "image": "medium shot of {SEN_YASLI} playing the saz for a small grandchild sitting on a cushion, warm light"
-    },
-    {
-     "say": "Bayrama kadar sana bu türküyü öğreteceğim, diyorsun.",
-     "image": "close-up of {SEN_YASLI} smiling and holding the saz out toward the child"
     },
     {
      "say": "Bu videonun başında bir kelimeyi aklında tutmanı istemiştik: ses.",
